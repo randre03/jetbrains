@@ -63,6 +63,9 @@
         <mark key="^" line="4" column="54" />
         <mark key="." line="4" column="54" />
       </file>
+      <file name="/Dummy.css" timestamp="1447192032511">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/js/react/badge/package.json" timestamp="1447179537644">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -185,6 +188,12 @@
         <mark key="]" line="4" column="54" />
         <mark key="." line="4" column="54" />
         <mark key="^" line="4" column="54" />
+      </file>
+      <file name="$USER_HOME$/dev/js/react/thumbnail-list/scripts/main.jsx" timestamp="1447193383189">
+        <mark key="[" line="48" column="22" />
+        <mark key="]" line="48" column="24" />
+        <mark key="." line="48" column="24" />
+        <mark key="^" line="48" column="24" />
       </file>
       <file name="$USER_HOME$/dev/js/nodeauth/views/index.jade" timestamp="1447025558434">
         <mark key="[" line="4" column="23" />
@@ -365,43 +374,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>main</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iL2J1aWxkL21haW4uanN4Ij48L3NjcmlwdD4=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB0aXRsZTogJ1NlZSBUdXRvcmlhbCcsCiAgICAgICAgbnVtYmVyOiAxNSwKICAgICAgICBpbWFnZVVybDogJ2h0dHA6Ly9mb3JtYXRqcy5pby9pbWcvcmVhY3Quc3ZnJywKICAgICAgICBoZWFkZXI6ICdMZWFybiBSZWFjdCcsCiAgICAgICAgZGVzYzogJ0xvcmVtIGlwc3VtIGRvbG9yIHNpdCBhbWV0LCBkdWkgZXUgdm9sdXRwYXQgc3VzY2lwaXQgZGljdHVtIGEganVzdG8sIHV0IGEgZXQgcG9ydHRpdG9yIGV1aXNtb2QgbGlndWxhIHF1aXNxdWUsIGNyYXMgbGFvcmVldCB0ZW1wdXMgYW1ldCBjdW0gcXVpc3F1ZSBoYWJpdGFzc2UsIGludGVnZXIgYWMgcmlzdXMgZXUsIGVuaW0gdXJuYS4gU2FnaXR0aXMgbWF1cmlzIGVyb3MgbGl0b3JhIHF1YW0gb3JuYXJlLCBoeW1lbmFlb3MgZHVpIHZhcml1cyBlbGl0IHNvbGxpY2l0dWRpbiBwcm9pbiBwb3J0dGl0b3IsIGh5bWVuYWVvcyBhdCBub251bW15LCBwdWx2aW5hciBuaXNsIGEgcXVpcyBldC4gU2VkIGxlY3R1cywgZXUgdmVsIHZpdmFtdXMgbW9sbGlzLCBmYWNpbGlzaXMgbWludXMgY29uZGltZW50dW0gd2lzaSB0ZW1wdXMgbmVjLCBhZGlwaXNjaW5nIG51bmMgbmliaCBjb252YWxsaXMsIGEgYWVuZWFuIGFjIHF1aXMganVzdG8uIFNjZWxlcmlzcXVlIGZhY2lsaXNpcyBsaWd1bGEgbWFzc2EsIGRpYW0gZWdldC4gRHVpIG5pYmggaW4gbGVjdHVzIG9yY2kgcHVydXMgc2l0LCBpbXBlcmRpZXQgbmliaCBpbiBtaSBldCwgc2VkIGNvbmRpbWVudHVtIGlkLCBhbWV0IHBsYXRlYSBsYW9yZWV0IHBlbGxlbnRlc3F1ZSwgZXQgbG9yZW0gaW4gd2lzaSB0b3J0b3IgbWFnbmlzLiBOdWxsYSBlZ2V0IGFudGUgZWdlc3RhcywgbmFtIGxvcmVtIHJpc3VzIHNvZGFsZXMgY3VyYWJpdHVyIG51bmMsIGxhY3VzIGxhY3VzLCBhIG1vcmJpIGlwc3VtIHNjZWxlcmlzcXVlIGN1cmFiaXR1ciBsaWJlcm8gYW50ZSwgYXVjdG9yIGN1cmFiaXR1ci4gQW50ZSBzaXQgYW50ZSBjb251YmlhIG51bGxhbSBkb2xvciwgdml2ZXJyYSBkb25lYyBhZCB2ZWhpY3VsYS4gT3JjaSBxdWFtIG1hZ25hIGhhYml0YXNzZSBzZW0uIEN1cmFiaXR1ciBpbiBkb25lYywgdml0YWUgdml0YWUgZG9sb3IgZG9sb3IgdXQsIGVuaW0gdXJuYSwgZmVsaXMgbW9sbGlzIGluIGNvbmd1ZSBudWxsYW0gcHJhZXNlbnQgdXJuYSwgdXQgdGVtcG9yIG5hdG9xdWUgbWkgbWkgc2VkLiBUcmlzdGlxdWUgdWx0cmljaWVzLCBpbnRlcmR1bSBlZ2V0LiBJcHN1bSB0cmlzdGlxdWUgYmxhbmRpdCBoZW5kcmVyaXQgbnVuYyBjb3JydXB0aScK</text>
       </register>
       <register name="1" type="4">
-        <text>s</text>
+        <text>;</text>
       </register>
-      <register name="2" type="4">
-        <text>Inbox</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gKAogICAgICAgICAgICAKICAgICAgICApOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iIyIgY2xhc3NOYW1lPSJidG4gYnRuLXByaW1hcnkiIHJvbGU9ImJ1dHRvbiI+QnV0dG9uPC9hPgogICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSIjIiBjbGFzc05hbWU9ImJ0biBidG4tZGVmYXVsdCIgcm9sZT0iYnV0dG9uIj5CdXR0b248L2E+Cg==</text>
+      <register name="3" type="4">
+        <text>g</text>
       </register>
       <register name="4" type="4">
-        <text>s</text>
+        <text>v</text>
       </register>
       <register name="5" type="4">
-        <text>0</text>
+        <text>s</text>
       </register>
       <register name="6" type="4">
-        <text>&quot;</text>
+        <text>.</text>
       </register>
       <register name="7" type="4">
-        <text>.</text>
+        <text>t</text>
       </register>
       <register name="8" type="4">
-        <text>.</text>
+        <text>c</text>
       </register>
       <register name="9" type="4">
-        <text>.</text>
+        <text>a</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
