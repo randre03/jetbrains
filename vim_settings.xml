@@ -25,6 +25,9 @@
       <file name="$USER_HOME$/dev/js/todos/claire" timestamp="1447099139541">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/js/react/badge/gulpfile.js" timestamp="1447182596350">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/meteor/codefolio/client/templates/helpers.js" timestamp="1446837315462">
         <mark key="'" line="16" column="28" />
         <mark key="[" line="39" column="31" />
@@ -244,6 +247,12 @@
         <mark key="^" line="16" column="40" />
         <mark key="." line="16" column="40" />
       </file>
+      <file name="$USER_HOME$/dev/js/react/badge/scripts/main.jsx" timestamp="1447183507909">
+        <mark key="[" line="25" column="48" />
+        <mark key="]" line="25" column="46" />
+        <mark key="^" line="25" column="46" />
+        <mark key="." line="25" column="46" />
+      </file>
       <file name="$USER_HOME$/dev/js/todo list/package.json" timestamp="1447098174605">
         <mark key="[" line="1" column="11" />
         <mark key="]" line="3" column="44" />
@@ -307,10 +316,11 @@
         <mark key="^" line="21" column="54" />
         <mark key="." line="21" column="54" />
       </file>
-      <file name="$USER_HOME$/dev/js/react/badge/index.html" timestamp="1447179928004">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="41" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/dev/js/react/badge/index.html" timestamp="1447183369485">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="8" column="12" />
+        <mark key="." line="8" column="12" />
+        <mark key="^" line="8" column="12" />
       </file>
     </filemarks>
     <jumps>
@@ -339,55 +349,56 @@
       <jump line="4" column="23" filename="$USER_HOME$/dev/js/react/badge/.idea/workspace.xml" />
       <jump line="18" column="30" filename="$USER_HOME$/dev/js/react/badge/.idea/workspace.xml" />
       <jump line="114" column="49" filename="$USER_HOME$/dev/js/react/badge/.idea/workspace.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/js/react/badge/gulpfile.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iL2J1aWxkL21haW4uanN4Ij48L3NjcmlwdD4=</text>
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
-        <text>hello</text>
+        <text>main</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICA8c2NyaXB0IHNyYz0iL2J1aWxkL21haW4uanN4Ij48L3NjcmlwdD4=</text>
       </register>
       <register name="1" type="4">
-        <text>d</text>
+        <text>4</text>
       </register>
       <register name="2" type="4">
-        <text>l</text>
+        <text>Messages</text>
       </register>
       <register name="3" type="4">
-        <text>r</text>
+        <text>d</text>
       </register>
       <register name="4" type="4">
-        <text>o</text>
+        <text>l</text>
       </register>
       <register name="5" type="4">
-        <text>w</text>
+        <text>r</text>
       </register>
       <register name="6" type="4">
-        <text>-</text>
-      </register>
-      <register name="7" type="4">
         <text>o</text>
       </register>
+      <register name="7" type="4">
+        <text>w</text>
+      </register>
       <register name="8" type="4">
-        <text>l</text>
+        <text>-</text>
       </register>
       <register name="9" type="4">
-        <text>l</text>
+        <text>o</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>hello</last-search>
+      <last-search>main</last-search>
       <last-offset />
-      <last-pattern>hello</last-pattern>
+      <last-pattern>main</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -396,6 +407,7 @@
         <entry>index</entry>
         <entry>hello-world</entry>
         <entry>hello</entry>
+        <entry>main</entry>
       </history-search>
       <history-cmd>
         <entry>27</entry>
