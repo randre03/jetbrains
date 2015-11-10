@@ -151,11 +151,11 @@
         <mark key="." line="6" column="3" />
         <mark key="^" line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/js/react/thumbnail/scripts/main.jsx" timestamp="1447185497995">
-        <mark key="[" line="28" column="39" />
-        <mark key="]" line="28" column="39" />
-        <mark key="^" line="28" column="39" />
-        <mark key="." line="28" column="39" />
+      <file name="$USER_HOME$/dev/js/react/thumbnail/scripts/main.jsx" timestamp="1447191558747">
+        <mark key="[" line="32" column="26" />
+        <mark key="]" line="33" column="94" />
+        <mark key="^" line="33" column="94" />
+        <mark key="." line="33" column="94" />
       </file>
       <file name="$USER_HOME$/dev/meteor/codefolio/client/templates/admin/projects/add_project.html" timestamp="1446851517476">
         <mark key="[" line="11" column="0" />
@@ -316,11 +316,11 @@
         <mark key="^" line="20" column="51" />
         <mark key="." line="20" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/js/react/thumbnail/index.html" timestamp="1447184893797">
-        <mark key="[" line="10" column="45" />
-        <mark key="]" line="10" column="45" />
-        <mark key="." line="10" column="45" />
-        <mark key="^" line="10" column="43" />
+      <file name="$USER_HOME$/dev/js/react/thumbnail/index.html" timestamp="1447190122833">
+        <mark key="[" line="10" column="18" />
+        <mark key="]" line="10" column="18" />
+        <mark key="." line="10" column="18" />
+        <mark key="^" line="10" column="17" />
       </file>
       <file name="$USER_HOME$/dev/js/react/start/src/components/Header/Header.js" timestamp="1447033116224">
         <mark key="[" line="21" column="52" />
@@ -364,11 +364,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/js/react/badge/gulpfile.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gRGVmaW5lIGEgY2xhc3MK</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>main</text>
@@ -376,32 +376,32 @@
       <register name="0" type="4">
         <text encoding="base64">ICA8c2NyaXB0IHNyYz0iL2J1aWxkL21haW4uanN4Ij48L3NjcmlwdD4=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Ly8gRGVmaW5lIGEgY2xhc3MK</text>
+      <register name="1" type="4">
+        <text>s</text>
       </register>
       <register name="2" type="4">
-        <text>.</text>
+        <text>Inbox</text>
       </register>
-      <register name="3" type="4">
-        <text>&quot;</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iIyIgY2xhc3NOYW1lPSJidG4gYnRuLXByaW1hcnkiIHJvbGU9ImJ1dHRvbiI+QnV0dG9uPC9hPgogICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSIjIiBjbGFzc05hbWU9ImJ0biBidG4tZGVmYXVsdCIgcm9sZT0iYnV0dG9uIj5CdXR0b248L2E+Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>target</text>
+        <text>s</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>&quot;</text>
       </register>
       <register name="7" type="4">
-        <text>4</text>
+        <text>.</text>
       </register>
       <register name="8" type="4">
-        <text>Messages</text>
+        <text>.</text>
       </register>
       <register name="9" type="4">
-        <text>d</text>
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
