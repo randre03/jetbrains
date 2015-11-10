@@ -292,12 +292,12 @@
         <mark key="^" line="53" column="1" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/js/react/thumbnail-list/index.html" timestamp="1447195481675">
+      <file name="$USER_HOME$/dev/js/react/thumbnail-list/index.html" timestamp="1447197564319">
         <mark key="'" line="21" column="0" />
-        <mark key="[" line="18" column="15" />
-        <mark key="]" line="18" column="30" />
-        <mark key="." line="18" column="30" />
-        <mark key="^" line="18" column="30" />
+        <mark key="[" line="18" column="28" />
+        <mark key="]" line="18" column="20" />
+        <mark key="." line="18" column="20" />
+        <mark key="^" line="18" column="20" />
       </file>
       <file name="$USER_HOME$/dev/meteor/codefolio/.gitignore" timestamp="1446829006335">
         <mark key="[" line="1" column="0" />
@@ -305,11 +305,11 @@
         <mark key="^" line="2" column="6" />
         <mark key="." line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/js/react/thumbnail-list/gulpfile.js" timestamp="1447196713403">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/dev/js/react/thumbnail-list/gulpfile.js" timestamp="1447197622581">
+        <mark key="[" line="26" column="10" />
+        <mark key="]" line="21" column="10" />
+        <mark key="^" line="21" column="10" />
+        <mark key="." line="21" column="10" />
       </file>
       <file name="$USER_HOME$/dev/js/react/React-For-Beginners-Starter-Files/15 - Persisting State Data with Firebase/scripts/components/Inventory.js" timestamp="1446774692765">
         <mark key="'" line="26" column="23" />
@@ -398,11 +398,11 @@
       <jump line="21" column="0" filename="$USER_HOME$/dev/js/react/thumbnail-list/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">fSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>main</text>
@@ -410,32 +410,32 @@
       <register name="0" type="2">
         <text encoding="base64">dmFyIFJlYWN0ID0gcmVxdWlyZSgncmVhY3QnKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">fSk7Cg==</text>
+      <register name="1" type="4">
+        <text>;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Z3VscC50YXNrKCdkZWZhdWx0JywgZnVuY3Rpb24gKCkgewogICAgcmV0dXJuIGd1bHAuc3JjKCdzY3JpcHRzLyoqJykKICAgICAgICAucGlwZShyZWFjdCgpKQogICAgICAgIC5waXBlKGNvbmNhdCgnYXBwbGljYXRpb24uanMnKSkKICAgICAgICAucGlwZShndWxwLmRlc3QoJy4vJykpCg==</text>
+      <register name="2" type="4">
+        <text>;</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">dmFyIHJlYWN0ID0gcmVxdWlyZSgnZ3VscC1yZWFjdCcpOwp2YXIgY29uY2F0ID0gcmVxdWlyZSgnZ3VscC1jb25jYXQnKTsKdmFyIAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>n</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="4">
-        <text>i</text>
+      <register name="5" type="2">
+        <text encoding="base64">fSk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>a</text>
+      <register name="6" type="2">
+        <text encoding="base64">Z3VscC50YXNrKCdkZWZhdWx0JywgZnVuY3Rpb24gKCkgewogICAgcmV0dXJuIGd1bHAuc3JjKCdzY3JpcHRzLyoqJykKICAgICAgICAucGlwZShyZWFjdCgpKQogICAgICAgIC5waXBlKGNvbmNhdCgnYXBwbGljYXRpb24uanMnKSkKICAgICAgICAucGlwZShndWxwLmRlc3QoJy4vJykpCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>m</text>
+      <register name="7" type="2">
+        <text encoding="base64">dmFyIHJlYWN0ID0gcmVxdWlyZSgnZ3VscC1yZWFjdCcpOwp2YXIgY29uY2F0ID0gcmVxdWlyZSgnZ3VscC1jb25jYXQnKTsKdmFyIAo=</text>
       </register>
       <register name="8" type="4">
-        <text>/</text>
+        <text>n</text>
       </register>
       <register name="9" type="4">
-        <text>/</text>
+        <text>i</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
