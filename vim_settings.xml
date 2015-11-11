@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/js/react/thumbnail-list/src/thumbnail-list.jsx" timestamp="1447199434550">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="6" column="39" />
-        <mark key="^" line="6" column="39" />
-        <mark key="." line="6" column="39" />
+      <file name="$USER_HOME$/dev/js/react/thumbnail-list/src/thumbnail-list.jsx" timestamp="1447200253574">
+        <mark key="[" line="6" column="40" />
+        <mark key="]" line="6" column="35" />
+        <mark key="^" line="6" column="35" />
+        <mark key="." line="6" column="35" />
       </file>
       <file name="$USER_HOME$/dev/js/todos/gulpfile.js" timestamp="1447103772654">
         <mark key="'" line="114" column="2" />
@@ -25,11 +25,12 @@
         <mark key="." line="7" column="91" />
         <mark key="^" line="7" column="91" />
       </file>
-      <file name="$USER_HOME$/dev/js/react/thumbnail-list/src/thumbnail.jsx" timestamp="1447199281196">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="6" column="34" />
-        <mark key="^" line="6" column="34" />
-        <mark key="." line="6" column="34" />
+      <file name="$USER_HOME$/dev/js/react/thumbnail-list/src/thumbnail.jsx" timestamp="1447200333172">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="6" column="28" />
+        <mark key="^" line="8" column="13" />
+        <mark key="." line="6" column="28" />
       </file>
       <file name="/a.dummy" timestamp="1447121142618">
         <mark key="[" line="0" column="0" />
@@ -124,12 +125,12 @@
         <mark key="." line="120" column="49" />
         <mark key="^" line="120" column="49" />
       </file>
-      <file name="$USER_HOME$/dev/js/react/thumbnail-list/src/badge.jsx" timestamp="1447199095182">
+      <file name="$USER_HOME$/dev/js/react/thumbnail-list/src/badge.jsx" timestamp="1447200363982">
         <mark key="'" line="5" column="28" />
         <mark key="[" line="16" column="0" />
-        <mark key="]" line="17" column="20" />
-        <mark key="^" line="17" column="20" />
-        <mark key="." line="17" column="20" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="7" column="13" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/dev/js/React-For-Beginners/rer final code (15)/index.html" timestamp="1447179922820">
         <mark key="[" line="18" column="0" />
@@ -237,7 +238,7 @@
         <mark key="^" line="74" column="64" />
         <mark key="." line="74" column="64" />
       </file>
-      <file name="/JavaScript Console" timestamp="1446831879064">
+      <file name="/JavaScript Console" timestamp="1447200121775">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/meteor/codefolio/client/templates/admin/projects/list_projects.html" timestamp="1446853888326">
@@ -380,6 +381,9 @@
         <mark key="." line="10" column="18" />
         <mark key="^" line="10" column="17" />
       </file>
+      <file name="$USER_HOME$/dev/js/react/thumbnail-list/main.js" timestamp="1447200590444">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/js/react/start/src/components/Header/Header.js" timestamp="1447033116224">
         <mark key="[" line="21" column="52" />
         <mark key="]" line="21" column="54" />
@@ -422,13 +426,16 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/js/react/badge/gulpfile.js" />
       <jump line="21" column="0" filename="$USER_HOME$/dev/js/react/thumbnail-list/index.html" />
       <jump line="5" column="28" filename="$USER_HOME$/dev/js/react/thumbnail-list/src/badge.jsx" />
+      <jump line="8" column="13" filename="$USER_HOME$/dev/js/react/thumbnail-list/src/thumbnail.jsx" />
+      <jump line="25" column="0" filename="$USER_HOME$/dev/js/react/thumbnail-list/src/thumbnail.jsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/js/react/thumbnail-list/main.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>jsx</text>
       </register>
       <register name="/" type="4">
         <text>main</text>
@@ -436,32 +443,32 @@
       <register name="0" type="2">
         <text encoding="base64">dmFyIFJlYWN0ID0gcmVxdWlyZSgncmVhY3QnKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>;</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>;</text>
+      <register name="2" type="2">
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgQmFkZ2U7Cg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>jsx</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fSk7Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgVGh1bWJuYWlsOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Z3VscC50YXNrKCdkZWZhdWx0JywgZnVuY3Rpb24gKCkgewogICAgcmV0dXJuIGd1bHAuc3JjKCdzY3JpcHRzLyoqJykKICAgICAgICAucGlwZShyZWFjdCgpKQogICAgICAgIC5waXBlKGNvbmNhdCgnYXBwbGljYXRpb24uanMnKSkKICAgICAgICAucGlwZShndWxwLmRlc3QoJy4vJykpCg==</text>
+      <register name="6" type="4">
+        <text>export default Thumbnail-List;</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">dmFyIHJlYWN0ID0gcmVxdWlyZSgnZ3VscC1yZWFjdCcpOwp2YXIgY29uY2F0ID0gcmVxdWlyZSgnZ3VscC1jb25jYXQnKTsKdmFyIAo=</text>
+      <register name="7" type="4">
+        <text>;</text>
       </register>
       <register name="8" type="4">
-        <text>n</text>
+        <text>;</text>
       </register>
       <register name="9" type="4">
-        <text>i</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
