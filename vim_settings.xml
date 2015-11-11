@@ -308,7 +308,6 @@
         <mark key="." line="36" column="87" />
         <mark key="^" line="36" column="87" />
       </file>
-      <file name="/Dummy.txt" timestamp="1447276285251" />
       <file name="$USER_HOME$/dev/website/1. HTML/index.html" timestamp="1446862087322">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="12" column="0" />
@@ -316,11 +315,11 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="3" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/js/react/ReactStarter/src/list.jsx" timestamp="1447275115796">
-        <mark key="[" line="29" column="23" />
-        <mark key="]" line="29" column="90" />
-        <mark key="." line="29" column="90" />
-        <mark key="^" line="29" column="90" />
+      <file name="$USER_HOME$/dev/js/react/ReactStarter/src/list.jsx" timestamp="1447276628605">
+        <mark key="[" line="11" column="11" />
+        <mark key="]" line="11" column="11" />
+        <mark key="." line="11" column="11" />
+        <mark key="^" line="11" column="11" />
       </file>
       <file name="$USER_HOME$/dev/js/nodeauth/package.json" timestamp="1446942451789">
         <mark key="[" line="5" column="0" />
@@ -419,11 +418,11 @@
       <file name="$USER_HOME$/dev/js/react/thumbnail-list/main.js" timestamp="1447200590444">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/js/react/ReactStarter/src/list-item.jsx" timestamp="1447275952890">
-        <mark key="[" line="25" column="37" />
-        <mark key="]" line="25" column="37" />
-        <mark key="." line="25" column="37" />
-        <mark key="^" line="25" column="37" />
+      <file name="$USER_HOME$/dev/js/react/ReactStarter/src/list-item.jsx" timestamp="1447277040697">
+        <mark key="[" line="11" column="32" />
+        <mark key="]" line="12" column="31" />
+        <mark key="." line="12" column="31" />
+        <mark key="^" line="12" column="31" />
       </file>
       <file name="$USER_HOME$/dev/js/react/start/src/components/Header/Header.js" timestamp="1447033116224">
         <mark key="[" line="21" column="52" />
