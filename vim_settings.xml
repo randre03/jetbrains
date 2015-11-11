@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/dev/js/react/thumbnail-list/src/thumbnail-list.jsx" timestamp="1447199434550">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="6" column="39" />
+        <mark key="^" line="6" column="39" />
+        <mark key="." line="6" column="39" />
+      </file>
       <file name="$USER_HOME$/dev/js/todos/gulpfile.js" timestamp="1447103772654">
         <mark key="'" line="114" column="2" />
         <mark key="[" line="8" column="0" />
@@ -18,6 +24,12 @@
         <mark key="]" line="7" column="91" />
         <mark key="." line="7" column="91" />
         <mark key="^" line="7" column="91" />
+      </file>
+      <file name="$USER_HOME$/dev/js/react/thumbnail-list/src/thumbnail.jsx" timestamp="1447199281196">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="6" column="34" />
+        <mark key="^" line="6" column="34" />
+        <mark key="." line="6" column="34" />
       </file>
       <file name="/a.dummy" timestamp="1447121142618">
         <mark key="[" line="0" column="0" />
@@ -65,6 +77,12 @@
       </file>
       <file name="/Dummy.css" timestamp="1447192032511">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/js/react/thumbnail-list/src/app.jsx" timestamp="1447199483046">
+        <mark key="[" line="5" column="51" />
+        <mark key="]" line="5" column="51" />
+        <mark key="^" line="5" column="51" />
+        <mark key="." line="5" column="51" />
       </file>
       <file name="$USER_HOME$/dev/js/react/badge/package.json" timestamp="1447179537644">
         <mark key="[" line="21" column="0" />
