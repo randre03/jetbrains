@@ -32,7 +32,7 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="6" column="28" />
       </file>
-      <file name="/a.dummy" timestamp="1447121142618">
+      <file name="/a.dummy" timestamp="1447276160271">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/js/todos/claire" timestamp="1447099139541">
@@ -46,6 +46,11 @@
       </file>
       <file name="$USER_HOME$/dev/js/react/badge/gulpfile.js" timestamp="1447182596350">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/js/react/ReactStarter/.gitignore" timestamp="1447274259940">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/dev/meteor/codefolio/client/templates/helpers.js" timestamp="1446837315462">
         <mark key="'" line="16" column="28" />
@@ -245,7 +250,8 @@
         <mark key="." line="4" column="54" />
         <mark key="^" line="4" column="54" />
       </file>
-      <file name="$USER_HOME$/dev/js/react/ReactStarter/gulpfile.js" timestamp="1447268333953">
+      <file name="$USER_HOME$/dev/js/react/ReactStarter/gulpfile.js" timestamp="1447274355946">
+        <mark key="'" line="48" column="18" />
         <mark key="[" line="49" column="23" />
         <mark key="]" line="78" column="27" />
         <mark key="^" line="78" column="27" />
@@ -302,6 +308,7 @@
         <mark key="." line="36" column="87" />
         <mark key="^" line="36" column="87" />
       </file>
+      <file name="/Dummy.txt" timestamp="1447276285251" />
       <file name="$USER_HOME$/dev/website/1. HTML/index.html" timestamp="1446862087322">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="12" column="0" />
@@ -309,11 +316,11 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="3" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/js/react/ReactStarter/src/list.jsx" timestamp="1447271272898">
-        <mark key="[" line="16" column="91" />
-        <mark key="]" line="17" column="4" />
-        <mark key="." line="17" column="4" />
-        <mark key="^" line="17" column="4" />
+      <file name="$USER_HOME$/dev/js/react/ReactStarter/src/list.jsx" timestamp="1447275115796">
+        <mark key="[" line="29" column="23" />
+        <mark key="]" line="29" column="90" />
+        <mark key="." line="29" column="90" />
+        <mark key="^" line="29" column="90" />
       </file>
       <file name="$USER_HOME$/dev/js/nodeauth/package.json" timestamp="1446942451789">
         <mark key="[" line="5" column="0" />
@@ -412,17 +419,23 @@
       <file name="$USER_HOME$/dev/js/react/thumbnail-list/main.js" timestamp="1447200590444">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/js/react/ReactStarter/src/list-item.jsx" timestamp="1447275952890">
+        <mark key="[" line="25" column="37" />
+        <mark key="]" line="25" column="37" />
+        <mark key="." line="25" column="37" />
+        <mark key="^" line="25" column="37" />
+      </file>
       <file name="$USER_HOME$/dev/js/react/start/src/components/Header/Header.js" timestamp="1447033116224">
         <mark key="[" line="21" column="52" />
         <mark key="]" line="21" column="54" />
         <mark key="^" line="21" column="54" />
         <mark key="." line="21" column="54" />
       </file>
-      <file name="$USER_HOME$/dev/js/react/ReactStarter/index.html" timestamp="1447271651315">
-        <mark key="[" line="2" column="48" />
-        <mark key="]" line="9" column="15" />
-        <mark key="^" line="9" column="15" />
-        <mark key="." line="9" column="15" />
+      <file name="$USER_HOME$/dev/js/react/ReactStarter/index.html" timestamp="1447275831796">
+        <mark key="[" line="10" column="5" />
+        <mark key="]" line="12" column="25" />
+        <mark key="^" line="12" column="25" />
+        <mark key="." line="12" column="25" />
       </file>
       <file name="$USER_HOME$/dev/js/react/dropdown/src/app.jsx" timestamp="1447205301541">
         <mark key="[" line="17" column="34" />
@@ -442,12 +455,12 @@
         <mark key="." line="31" column="31" />
         <mark key="^" line="31" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/js/react/ReactStarter/src/app.jsx" timestamp="1447271826147">
-        <mark key="'" line="4" column="34" />
-        <mark key="[" line="41" column="38" />
-        <mark key="]" line="41" column="73" />
-        <mark key="." line="41" column="73" />
-        <mark key="^" line="41" column="73" />
+      <file name="$USER_HOME$/dev/js/react/ReactStarter/src/app.jsx" timestamp="1447276076172">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="40" column="103" />
+        <mark key="]" line="41" column="16" />
+        <mark key="." line="41" column="16" />
+        <mark key="^" line="41" column="16" />
       </file>
     </filemarks>
     <jumps>
@@ -486,13 +499,19 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/js/react/dropdown/src/button.jsx" />
       <jump line="13" column="36" filename="$USER_HOME$/dev/js/react/ReactStarter/src/app.jsx" />
       <jump line="3" column="34" filename="$USER_HOME$/dev/js/react/ReactStarter/src/app.jsx" />
+      <jump line="78" column="25" filename="$USER_HOME$/dev/js/react/ReactStarter/gulpfile.js" />
+      <jump line="49" column="4" filename="$USER_HOME$/dev/js/react/ReactStarter/gulpfile.js" />
+      <jump line="63" column="14" filename="$USER_HOME$/dev/js/react/ReactStarter/gulpfile.js" />
+      <jump line="48" column="18" filename="$USER_HOME$/dev/js/react/ReactStarter/gulpfile.js" />
+      <jump line="30" column="0" filename="$USER_HOME$/dev/js/react/ReactStarter/src/app.jsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/js/react/ReactStarter/src/app.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>I</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgPGxpPnt0aGlzLnByb3BzLml0ZW0udGV4dH0gLSB7dGhpcy5wcm9wcy5pdGVtLmtleX0gLSB7dGhpcy5wcm9wcy5pdGVtLmRvbmV9PC9saT4K</text>
       </register>
       <register name="-" type="4">
-        <text>I</text>
+        <text>]}</text>
       </register>
       <register name="/" type="4">
         <text>main</text>
@@ -500,32 +519,32 @@
       <register name="0" type="2">
         <text encoding="base64">dmFyIFJlYWN0ID0gcmVxdWlyZSgncmVhY3QnKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>I</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgPGxpPnt0aGlzLnByb3BzLml0ZW0udGV4dH0gLSB7dGhpcy5wcm9wcy5pdGVtLmtleX0gLSB7dGhpcy5wcm9wcy5pdGVtLmRvbmV9PC9saT4K</text>
       </register>
-      <register name="2" type="4">
-        <text>}</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>}</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW09e2l0ZW19Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>}</text>
+        <text>]}</text>
       </register>
       <register name="5" type="4">
-        <text>{</text>
+        <text>key</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>[</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>this.props.items</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgPC8=</text>
+        <text>text</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
