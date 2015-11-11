@@ -245,6 +245,12 @@
         <mark key="." line="4" column="54" />
         <mark key="^" line="4" column="54" />
       </file>
+      <file name="$USER_HOME$/dev/js/react/ReactStarter/gulpfile.js" timestamp="1447268333953">
+        <mark key="[" line="49" column="23" />
+        <mark key="]" line="78" column="27" />
+        <mark key="^" line="78" column="27" />
+        <mark key="." line="78" column="27" />
+      </file>
       <file name="$USER_HOME$/dev/js/nodeauth/views/index.jade" timestamp="1447025558434">
         <mark key="[" line="4" column="23" />
         <mark key="]" line="4" column="32" />
@@ -302,6 +308,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="3" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/js/react/ReactStarter/src/list.jsx" timestamp="1447271272898">
+        <mark key="[" line="16" column="91" />
+        <mark key="]" line="17" column="4" />
+        <mark key="." line="17" column="4" />
+        <mark key="^" line="17" column="4" />
       </file>
       <file name="$USER_HOME$/dev/js/nodeauth/package.json" timestamp="1446942451789">
         <mark key="[" line="5" column="0" />
@@ -406,6 +418,12 @@
         <mark key="^" line="21" column="54" />
         <mark key="." line="21" column="54" />
       </file>
+      <file name="$USER_HOME$/dev/js/react/ReactStarter/index.html" timestamp="1447271651315">
+        <mark key="[" line="2" column="48" />
+        <mark key="]" line="9" column="15" />
+        <mark key="^" line="9" column="15" />
+        <mark key="." line="9" column="15" />
+      </file>
       <file name="$USER_HOME$/dev/js/react/dropdown/src/app.jsx" timestamp="1447205301541">
         <mark key="[" line="17" column="34" />
         <mark key="]" line="17" column="41" />
@@ -424,12 +442,12 @@
         <mark key="." line="31" column="31" />
         <mark key="^" line="31" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/js/react/ReactStarter/src/app.jsx" timestamp="1447267472873">
+      <file name="$USER_HOME$/dev/js/react/ReactStarter/src/app.jsx" timestamp="1447271826147">
         <mark key="'" line="4" column="34" />
-        <mark key="[" line="25" column="58" />
-        <mark key="]" line="25" column="100" />
-        <mark key="." line="25" column="100" />
-        <mark key="^" line="25" column="100" />
+        <mark key="[" line="41" column="38" />
+        <mark key="]" line="41" column="73" />
+        <mark key="." line="41" column="73" />
+        <mark key="^" line="41" column="73" />
       </file>
     </filemarks>
     <jumps>
@@ -471,10 +489,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>value</text>
+        <text>I</text>
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text>I</text>
       </register>
       <register name="/" type="4">
         <text>main</text>
@@ -483,31 +501,31 @@
         <text encoding="base64">dmFyIFJlYWN0ID0gcmVxdWlyZSgncmVhY3QnKTsK</text>
       </register>
       <register name="1" type="4">
-        <text>value</text>
+        <text>I</text>
       </register>
       <register name="2" type="4">
-        <text>.</text>
+        <text>}</text>
       </register>
       <register name="3" type="4">
-        <text>event.target</text>
+        <text>}</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc3RhdGUudGV4dCk7Cg==</text>
+      <register name="4" type="4">
+        <text>}</text>
       </register>
       <register name="5" type="4">
         <text>{</text>
       </register>
       <register name="6" type="4">
-        <text>}</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="7" type="4">
-        <text>{</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc3RhdGUudGV4dCk7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgPC8=</text>
       </register>
-      <register name="9" type="4">
-        <text>s</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
