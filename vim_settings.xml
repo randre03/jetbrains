@@ -192,11 +192,12 @@
         <mark key="^" line="33" column="94" />
         <mark key="." line="33" column="94" />
       </file>
-      <file name="$USER_HOME$/dev/js/react/thumbnail-list/temp.jsx" timestamp="1447203525855">
-        <mark key="[" line="12" column="63" />
-        <mark key="]" line="12" column="63" />
-        <mark key="^" line="16" column="24" />
-        <mark key="." line="12" column="63" />
+      <file name="$USER_HOME$/dev/js/react/thumbnail-list/temp.jsx" timestamp="1447204381133">
+        <mark key="'" line="12" column="20" />
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="12" column="20" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/dev/meteor/codefolio/client/templates/admin/projects/add_project.html" timestamp="1446851517476">
         <mark key="[" line="11" column="0" />
@@ -435,10 +436,11 @@
       <jump line="8" column="13" filename="$USER_HOME$/dev/js/react/thumbnail-list/src/thumbnail.jsx" />
       <jump line="25" column="0" filename="$USER_HOME$/dev/js/react/thumbnail-list/src/thumbnail.jsx" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/js/react/thumbnail-list/main.js" />
+      <jump line="12" column="20" filename="$USER_HOME$/dev/js/react/thumbnail-list/temp.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPC91bD4K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -449,35 +451,32 @@
       <register name="0" type="2">
         <text encoding="base64">dmFyIFJlYWN0ID0gcmVxdWlyZSgncmVhY3QnKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPC91bD4K</text>
       </register>
-      <register name="2" type="4">
-        <text>type=&quot;button&quot; id=&quot;dropdownMenu1&quot; data-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;true&quot;</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHVsIGNsYXNzTmFtZT0iZHJvcGRvd24tbWVudSIgYXJpYS1sYWJlbGxlZGJ5PSJkcm9wZG93bk1lbnUxIj4KICAgICAgICAgICAgICAgIDxsaT48YT5BY3Rpb248L2E+PC9saT4KICAgICAgICAgICAgICAgIDxsaT48YT5Bbm90aGVyIGFjdGlvbjwvYT48L2xpPgogICAgICAgICAgICAgICAgPGxpPjxhPlNvbWV0aGluZyBlbHNlIGhlcmU8L2E+PC9saT4KICAgICAgICAgICAgICAgIDxsaT48YT5TZXBhcmF0ZWQgbGluazwvYT48L2xpPgo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGJ1dHRvbiBjbGFzc05hbWU9ImJ0biBidG4tZGVmYXVsdCBkcm9wZG93bi10b2dnbGUiPgogICAgICAgICAgICAgICAgRHJvcGRvd24KICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iY2FyZXQiPjwvc3Bhbj4KICAgICAgICAgICAgPC9idXR0b24+Cg==</text>
       </register>
       <register name="4" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>type=&quot;button&quot; id=&quot;dropdownMenu1&quot; data-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;true&quot;</text>
       </register>
       <register name="6" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="7" type="8">
-        <text>href=&quot;#&quot;
-href=&quot;#&quot;
-href=&quot;#&quot;
-href=&quot;#&quot;</text>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgQmFkZ2U7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
