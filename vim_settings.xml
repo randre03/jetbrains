@@ -57,6 +57,13 @@
       <file name="$USER_HOME$/dev/website/1. HTML/helloworld.html" timestamp="1446860238956">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/js/react/dropdown/src/button.jsx" timestamp="1447259047499">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="11" column="107" />
+        <mark key="]" line="11" column="106" />
+        <mark key="." line="11" column="106" />
+        <mark key="^" line="11" column="106" />
+      </file>
       <file name="$USER_HOME$/dev/meteor/codefolio/lib/collections.js" timestamp="1446852618012">
         <mark key="'" line="56" column="16" />
         <mark key="[" line="83" column="0" />
@@ -114,6 +121,12 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/js/react/dropdown/index.html" timestamp="1447257475866">
+        <mark key="[" line="5" column="27" />
+        <mark key="]" line="8" column="27" />
+        <mark key="^" line="8" column="27" />
+        <mark key="." line="8" column="27" />
       </file>
       <file name="$USER_HOME$/dev/js/React-For-Beginners/claire" timestamp="1447166544528">
         <mark key="[" line="0" column="0" />
@@ -407,11 +420,11 @@
         <mark key="." line="8" column="12" />
         <mark key="^" line="8" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/js/react/dropdown/src/dropdown.jsx" timestamp="1447205430334">
-        <mark key="[" line="12" column="16" />
-        <mark key="]" line="12" column="35" />
-        <mark key="^" line="12" column="35" />
-        <mark key="." line="12" column="35" />
+      <file name="$USER_HOME$/dev/js/react/dropdown/src/dropdown.jsx" timestamp="1447259108376">
+        <mark key="[" line="11" column="27" />
+        <mark key="]" line="11" column="27" />
+        <mark key="." line="11" column="27" />
+        <mark key="^" line="18" column="109" />
       </file>
     </filemarks>
     <jumps>
@@ -447,13 +460,14 @@
       <jump line="25" column="0" filename="$USER_HOME$/dev/js/react/thumbnail-list/src/thumbnail.jsx" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/js/react/thumbnail-list/main.js" />
       <jump line="12" column="20" filename="$USER_HOME$/dev/js/react/thumbnail-list/temp.jsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/js/react/dropdown/src/button.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ThumbnailList</text>
+        <text>event</text>
       </register>
       <register name="-" type="4">
-        <text>ThumbnailList</text>
+        <text>event</text>
       </register>
       <register name="/" type="4">
         <text>main</text>
@@ -462,32 +476,31 @@
         <text encoding="base64">dmFyIFJlYWN0ID0gcmVxdWlyZSgncmVhY3QnKTsK</text>
       </register>
       <register name="1" type="4">
-        <text>ThumbnailList</text>
+        <text>event</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICB0aHVtYm5haWxEYXRhOiBbewogICAgICAgIHRpdGxlOiAnU2VlIFR1dG9yaWFsJywKICAgICAgICBudW1iZXI6IDE1LAogICAgICAgIGltYWdlVXJsOiAnaHR0cDovL2Zvcm1hdGpzLmlvL2ltZy9yZWFjdC5zdmcnLAogICAgICAgIGhlYWRlcjogJ0xlYXJuIFJlYWN0JywKICAgICAgICBkZXNjOiAnTG9yZW0gaXBzdW0gZG9sb3Igc2l0IGFtZXQsIGR1aSBldSB2b2x1dHBhdCBzdXNjaXBpdCBkaWN0dW0gYSBqdXN0bywgdXQgYSBldCBwb3J0dGl0b3IgZXVpc21vZCBsaWd1bGEgcXVpc3F1ZSwgY3JhcyBsYW9yZWV0IHRlbXB1cyBhbWV0IGN1bSBxdWlzcXVlIGhhYml0YXNzZSwgaW50ZWdlciBhYyByaXN1cyBldSwgZW5pbSB1cm5hLiBTYWdpdHRpcyBtYXVyaXMgZXJvcyBsaXRvcmEgcXVhbSBvcm5hcmUsIGh5bWVuYWVvcyBkdWkgdmFyaXVzIGVsaXQgc29sbGljaXR1ZGluIHByb2luIHBvcnR0aXRvciwgaHltZW5hZW9zIGF0IG5vbnVtbXksIHB1bHZpbmFyIG5pc2wgYSBxdWlzIGV0LiBTZWQgbGVjdHVzLCBldSB2ZWwgdml2YW11cyBtb2xsaXMsIGZhY2lsaXNpcyBtaW51cyBjb25kaW1lbnR1bSB3aXNpIHRlbXB1cyBuZWMsIGFkaXBpc2NpbmcgbnVuYyBuaWJoIGNvbnZhbGxpcywgYSBhZW5lYW4gYWMgcXVpcyBqdXN0by4gU2NlbGVyaXNxdWUgZmFjaWxpc2lzIGxpZ3VsYSBtYXNzYSwgZGlhbSBlZ2V0LiBEdWkgbmliaCBpbiBsZWN0dXMgb3JjaSBwdXJ1cyBzaXQsIGltcGVyZGlldCBuaWJoIGluIG1pIGV0LCBzZWQgY29uZGltZW50dW0gaWQsIGFtZXQgcGxhdGVhIGxhb3JlZXQgcGVsbGVudGVzcXVlLCBldCBsb3JlbSBpbiB3aXNpIHRvcnRvciBtYWduaXMuIE51bGxhIGVnZXQgYW50ZSBlZ2VzdGFzLCBuYW0gbG9yZW0gcmlzdXMgc29kYWxlcyBjdXJhYml0dXIgbnVuYywgbGFjdXMgbGFjdXMsIGEgbW9yYmkgaXBzdW0gc2NlbGVyaXNxdWUgY3VyYWJpdHVyIGxpYmVybyBhbnRlLCBhdWN0b3IgY3VyYWJpdHVyLiBBbnRlIHNpdCBhbnRlIGNvbnViaWEgbnVsbGFtIGRvbG9yLCB2aXZlcnJhIGRvbmVjIGFkIHZlaGljdWxhLiBPcmNpIHF1YW0gbWFnbmEgaGFiaXRhc3NlIHNlbS4gQ3VyYWJpdHVyIGluIGRvbmVjLCB2aXRhZSB2aXRhZSBkb2xvciBkb2xvciB1dCwgZW5pbSB1cm5hLCBmZWxpcyBtb2xsaXMgaW4gY29uZ3VlIG51bGxhbSBwcmFlc2VudCB1cm5hLCB1dCB0ZW1wb3IgbmF0b3F1ZSBtaSBtaSBzZWQuIFRyaXN0aXF1ZSB1bHRyaWNpZXMsIGludGVyZHVtIGVnZXQuIElwc3VtIHRyaXN0aXF1ZSBibGFuZGl0IGhlbmRyZXJpdCBudW5jIGNvcnJ1cHRpJwogICAgfSwgewoKICAgICAgICB0aXRsZTogJ1NlZSBDb3Vyc2VzJywKICAgICAgICBudW1iZXI6IDI1LAogICAgICAgIGltYWdlVXJsOiAnaHR0cDovL2JydW5jaC5pby9pbWFnZXMvb3RoZXJzL2d1bHAucG5nJywKICAgICAgICBoZWFkZXI6ICdMZWFybiBHdWxwJywKICAgICAgICBkZXNjOiAnTG9yZW0gaXBzdW0gZG9sb3Igc2l0IGFtZXQsIGR1aSBldSB2b2x1dHBhdCBzdXNjaXBpdCBkaWN0dW0gYSBqdXN0bywgdXQgYSBldCBwb3J0dGl0b3IgZXVpc21vZCBsaWd1bGEgcXVpc3F1ZSwgY3JhcyBsYW9yZWV0IHRlbXB1cyBhbWV0IGN1bSBxdWlzcXVlIGhhYml0YXNzZSwgaW50ZWdlciBhYyByaXN1cyBldSwgZW5pbSB1cm5hLiBTYWdpdHRpcyBtYXVyaXMgZXJvcyBsaXRvcmEgcXVhbSBvcm5hcmUsIGh5bWVuYWVvcyBkdWkgdmFyaXVzIGVsaXQgc29sbGljaXR1ZGluIHByb2luIHBvcnR0aXRvciwgaHltZW5hZW9zIGF0IG5vbnVtbXksIHB1bHZpbmFyIG5pc2wgYSBxdWlzIGV0LiBTZWQgbGVjdHVzLCBldSB2ZWwgdml2YW11cyBtb2xsaXMsIGZhY2lsaXNpcyBtaW51cyBjb25kaW1lbnR1bSB3aXNpIHRlbXB1cyBuZWMsIGFkaXBpc2NpbmcgbnVuYyBuaWJoIGNvbnZhbGxpcywgYSBhZW5lYW4gYWMgcXVpcyBqdXN0by4gU2NlbGVyaXNxdWUgZmFjaWxpc2lzIGxpZ3VsYSBtYXNzYSwgZGlhbSBlZ2V0LiBEdWkgbmliaCBpbiBsZWN0dXMgb3JjaSBwdXJ1cyBzaXQsIGltcGVyZGlldCBuaWJoIGluIG1pIGV0LCBzZWQgY29uZGltZW50dW0gaWQsIGFtZXQgcGxhdGVhIGxhb3JlZXQgcGVsbGVudGVzcXVlLCBldCBsb3JlbSBpbiB3aXNpIHRvcnRvciBtYWduaXMuIE51bGxhIGVnZXQgYW50ZSBlZ2VzdGFzLCBuYW0gbG9yZW0gcmlzdXMgc29kYWxlcyBjdXJhYml0dXIgbnVuYywgbGFjdXMgbGFjdXMsIGEgbW9yYmkgaXBzdW0gc2NlbGVyaXNxdWUgY3VyYWJpdHVyIGxpYmVybyBhbnRlLCBhdWN0b3IgY3VyYWJpdHVyLiBBbnRlIHNpdCBhbnRlIGNvbnViaWEgbnVsbGFtIGRvbG9yLCB2aXZlcnJhIGRvbmVjIGFkIHZlaGljdWxhLiBPcmNpIHF1YW0gbWFnbmEgaGFiaXRhc3NlIHNlbS4gQ3VyYWJpdHVyIGluIGRvbmVjLCB2aXRhZSB2aXRhZSBkb2xvciBkb2xvciB1dCwgZW5pbSB1cm5hLCBmZWxpcyBtb2xsaXMgaW4gY29uZ3VlIG51bGxhbSBwcmFlc2VudCB1cm5hLCB1dCB0ZW1wb3IgbmF0b3F1ZSBtaSBtaSBzZWQuIFRyaXN0aXF1ZSB1bHRyaWNpZXMsIGludGVyZHVtIGVnZXQuIElwc3VtIHRyaXN0aXF1ZSBibGFuZGl0IGhlbmRyZXJpdCBudW5jIGNvcnJ1cHRpJwogICAgfV0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGhhbmRsZUNsaWNrOiBmdW5jdGlvbiAoZXZlbnQpIHsKCiAgICB9LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmFyIFRodW1ibmFpbExpc3QgPSByZXF1aXJlKCcuL3RodW1ibmFpbC1saXN0LmpzeCcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAiZGV2RGVwZW5kZW5jaWVzIjogewogICAKICAKICAgIAogIH0sCg==</text>
+      <register name="4" type="4">
+        <text>number</text>
       </register>
       <register name="5" type="4">
-        <text>d</text>
+        <text>Badge</text>
       </register>
       <register name="6" type="4">
-        <text>&quot;vinyl-source-stream&quot;: &quot;1.1.0&quot;,
-    &quot;watchify&quot;: &quot;3.4.0&quot;</text>
+        <text>B</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ThumbnailList</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">CiAgICB0aHVtYm5haWxEYXRhOiBbewogICAgICAgIHRpdGxlOiAnU2VlIFR1dG9yaWFsJywKICAgICAgICBudW1iZXI6IDE1LAogICAgICAgIGltYWdlVXJsOiAnaHR0cDovL2Zvcm1hdGpzLmlvL2ltZy9yZWFjdC5zdmcnLAogICAgICAgIGhlYWRlcjogJ0xlYXJuIFJlYWN0JywKICAgICAgICBkZXNjOiAnTG9yZW0gaXBzdW0gZG9sb3Igc2l0IGFtZXQsIGR1aSBldSB2b2x1dHBhdCBzdXNjaXBpdCBkaWN0dW0gYSBqdXN0bywgdXQgYSBldCBwb3J0dGl0b3IgZXVpc21vZCBsaWd1bGEgcXVpc3F1ZSwgY3JhcyBsYW9yZWV0IHRlbXB1cyBhbWV0IGN1bSBxdWlzcXVlIGhhYml0YXNzZSwgaW50ZWdlciBhYyByaXN1cyBldSwgZW5pbSB1cm5hLiBTYWdpdHRpcyBtYXVyaXMgZXJvcyBsaXRvcmEgcXVhbSBvcm5hcmUsIGh5bWVuYWVvcyBkdWkgdmFyaXVzIGVsaXQgc29sbGljaXR1ZGluIHByb2luIHBvcnR0aXRvciwgaHltZW5hZW9zIGF0IG5vbnVtbXksIHB1bHZpbmFyIG5pc2wgYSBxdWlzIGV0LiBTZWQgbGVjdHVzLCBldSB2ZWwgdml2YW11cyBtb2xsaXMsIGZhY2lsaXNpcyBtaW51cyBjb25kaW1lbnR1bSB3aXNpIHRlbXB1cyBuZWMsIGFkaXBpc2NpbmcgbnVuYyBuaWJoIGNvbnZhbGxpcywgYSBhZW5lYW4gYWMgcXVpcyBqdXN0by4gU2NlbGVyaXNxdWUgZmFjaWxpc2lzIGxpZ3VsYSBtYXNzYSwgZGlhbSBlZ2V0LiBEdWkgbmliaCBpbiBsZWN0dXMgb3JjaSBwdXJ1cyBzaXQsIGltcGVyZGlldCBuaWJoIGluIG1pIGV0LCBzZWQgY29uZGltZW50dW0gaWQsIGFtZXQgcGxhdGVhIGxhb3JlZXQgcGVsbGVudGVzcXVlLCBldCBsb3JlbSBpbiB3aXNpIHRvcnRvciBtYWduaXMuIE51bGxhIGVnZXQgYW50ZSBlZ2VzdGFzLCBuYW0gbG9yZW0gcmlzdXMgc29kYWxlcyBjdXJhYml0dXIgbnVuYywgbGFjdXMgbGFjdXMsIGEgbW9yYmkgaXBzdW0gc2NlbGVyaXNxdWUgY3VyYWJpdHVyIGxpYmVybyBhbnRlLCBhdWN0b3IgY3VyYWJpdHVyLiBBbnRlIHNpdCBhbnRlIGNvbnViaWEgbnVsbGFtIGRvbG9yLCB2aXZlcnJhIGRvbmVjIGFkIHZlaGljdWxhLiBPcmNpIHF1YW0gbWFnbmEgaGFiaXRhc3NlIHNlbS4gQ3VyYWJpdHVyIGluIGRvbmVjLCB2aXRhZSB2aXRhZSBkb2xvciBkb2xvciB1dCwgZW5pbSB1cm5hLCBmZWxpcyBtb2xsaXMgaW4gY29uZ3VlIG51bGxhbSBwcmFlc2VudCB1cm5hLCB1dCB0ZW1wb3IgbmF0b3F1ZSBtaSBtaSBzZWQuIFRyaXN0aXF1ZSB1bHRyaWNpZXMsIGludGVyZHVtIGVnZXQuIElwc3VtIHRyaXN0aXF1ZSBibGFuZGl0IGhlbmRyZXJpdCBudW5jIGNvcnJ1cHRpJwogICAgfSwgewoKICAgICAgICB0aXRsZTogJ1NlZSBDb3Vyc2VzJywKICAgICAgICBudW1iZXI6IDI1LAogICAgICAgIGltYWdlVXJsOiAnaHR0cDovL2JydW5jaC5pby9pbWFnZXMvb3RoZXJzL2d1bHAucG5nJywKICAgICAgICBoZWFkZXI6ICdMZWFybiBHdWxwJywKICAgICAgICBkZXNjOiAnTG9yZW0gaXBzdW0gZG9sb3Igc2l0IGFtZXQsIGR1aSBldSB2b2x1dHBhdCBzdXNjaXBpdCBkaWN0dW0gYSBqdXN0bywgdXQgYSBldCBwb3J0dGl0b3IgZXVpc21vZCBsaWd1bGEgcXVpc3F1ZSwgY3JhcyBsYW9yZWV0IHRlbXB1cyBhbWV0IGN1bSBxdWlzcXVlIGhhYml0YXNzZSwgaW50ZWdlciBhYyByaXN1cyBldSwgZW5pbSB1cm5hLiBTYWdpdHRpcyBtYXVyaXMgZXJvcyBsaXRvcmEgcXVhbSBvcm5hcmUsIGh5bWVuYWVvcyBkdWkgdmFyaXVzIGVsaXQgc29sbGljaXR1ZGluIHByb2luIHBvcnR0aXRvciwgaHltZW5hZW9zIGF0IG5vbnVtbXksIHB1bHZpbmFyIG5pc2wgYSBxdWlzIGV0LiBTZWQgbGVjdHVzLCBldSB2ZWwgdml2YW11cyBtb2xsaXMsIGZhY2lsaXNpcyBtaW51cyBjb25kaW1lbnR1bSB3aXNpIHRlbXB1cyBuZWMsIGFkaXBpc2NpbmcgbnVuYyBuaWJoIGNvbnZhbGxpcywgYSBhZW5lYW4gYWMgcXVpcyBqdXN0by4gU2NlbGVyaXNxdWUgZmFjaWxpc2lzIGxpZ3VsYSBtYXNzYSwgZGlhbSBlZ2V0LiBEdWkgbmliaCBpbiBsZWN0dXMgb3JjaSBwdXJ1cyBzaXQsIGltcGVyZGlldCBuaWJoIGluIG1pIGV0LCBzZWQgY29uZGltZW50dW0gaWQsIGFtZXQgcGxhdGVhIGxhb3JlZXQgcGVsbGVudGVzcXVlLCBldCBsb3JlbSBpbiB3aXNpIHRvcnRvciBtYWduaXMuIE51bGxhIGVnZXQgYW50ZSBlZ2VzdGFzLCBuYW0gbG9yZW0gcmlzdXMgc29kYWxlcyBjdXJhYml0dXIgbnVuYywgbGFjdXMgbGFjdXMsIGEgbW9yYmkgaXBzdW0gc2NlbGVyaXNxdWUgY3VyYWJpdHVyIGxpYmVybyBhbnRlLCBhdWN0b3IgY3VyYWJpdHVyLiBBbnRlIHNpdCBhbnRlIGNvbnViaWEgbnVsbGFtIGRvbG9yLCB2aXZlcnJhIGRvbmVjIGFkIHZlaGljdWxhLiBPcmNpIHF1YW0gbWFnbmEgaGFiaXRhc3NlIHNlbS4gQ3VyYWJpdHVyIGluIGRvbmVjLCB2aXRhZSB2aXRhZSBkb2xvciBkb2xvciB1dCwgZW5pbSB1cm5hLCBmZWxpcyBtb2xsaXMgaW4gY29uZ3VlIG51bGxhbSBwcmFlc2VudCB1cm5hLCB1dCB0ZW1wb3IgbmF0b3F1ZSBtaSBtaSBzZWQuIFRyaXN0aXF1ZSB1bHRyaWNpZXMsIGludGVyZHVtIGVnZXQuIElwc3VtIHRyaXN0aXF1ZSBibGFuZGl0IGhlbmRyZXJpdCBudW5jIGNvcnJ1cHRpJwogICAgfV0=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAiZ3VscC11dGlsIjogIjMuMC43Iiw=</text>
+      <register name="9" type="2">
+        <text encoding="base64">dmFyIFRodW1ibmFpbExpc3QgPSByZXF1aXJlKCcuL3RodW1ibmFpbC1saXN0LmpzeCcpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
