@@ -315,11 +315,11 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="3" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/js/react/ReactStarter/src/list.jsx" timestamp="1447276628605">
-        <mark key="[" line="11" column="11" />
-        <mark key="]" line="11" column="11" />
-        <mark key="." line="11" column="11" />
-        <mark key="^" line="11" column="11" />
+      <file name="$USER_HOME$/dev/js/react/ReactStarter/src/list.jsx" timestamp="1447294037121">
+        <mark key="[" line="20" column="69" />
+        <mark key="]" line="20" column="7" />
+        <mark key="." line="20" column="7" />
+        <mark key="^" line="20" column="7" />
       </file>
       <file name="$USER_HOME$/dev/js/nodeauth/package.json" timestamp="1446942451789">
         <mark key="[" line="5" column="0" />
@@ -418,11 +418,11 @@
       <file name="$USER_HOME$/dev/js/react/thumbnail-list/main.js" timestamp="1447200590444">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/js/react/ReactStarter/src/list-item.jsx" timestamp="1447283576353">
-        <mark key="[" line="14" column="4" />
-        <mark key="]" line="12" column="31" />
-        <mark key="." line="12" column="31" />
-        <mark key="^" line="12" column="31" />
+      <file name="$USER_HOME$/dev/js/react/ReactStarter/src/list-item.jsx" timestamp="1447293745967">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
+        <mark key="^" line="75" column="22" />
       </file>
       <file name="$USER_HOME$/dev/js/react/start/src/components/Header/Header.js" timestamp="1447033116224">
         <mark key="[" line="21" column="52" />
@@ -430,11 +430,11 @@
         <mark key="^" line="21" column="54" />
         <mark key="." line="21" column="54" />
       </file>
-      <file name="$USER_HOME$/dev/js/react/ReactStarter/index.html" timestamp="1447275831796">
-        <mark key="[" line="10" column="5" />
-        <mark key="]" line="12" column="25" />
-        <mark key="^" line="12" column="25" />
-        <mark key="." line="12" column="25" />
+      <file name="$USER_HOME$/dev/js/react/ReactStarter/index.html" timestamp="1447294746971">
+        <mark key="[" line="14" column="19" />
+        <mark key="]" line="15" column="24" />
+        <mark key="^" line="15" column="24" />
+        <mark key="." line="15" column="24" />
       </file>
       <file name="$USER_HOME$/dev/js/react/dropdown/src/app.jsx" timestamp="1447205301541">
         <mark key="[" line="17" column="34" />
@@ -454,12 +454,12 @@
         <mark key="." line="31" column="31" />
         <mark key="^" line="31" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/js/react/ReactStarter/src/app.jsx" timestamp="1447276076172">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="40" column="103" />
-        <mark key="]" line="41" column="16" />
-        <mark key="." line="41" column="16" />
-        <mark key="^" line="41" column="16" />
+      <file name="$USER_HOME$/dev/js/react/ReactStarter/src/app.jsx" timestamp="1447294712664">
+        <mark key="'" line="79" column="0" />
+        <mark key="[" line="40" column="38" />
+        <mark key="]" line="40" column="51" />
+        <mark key="." line="28" column="8" />
+        <mark key="^" line="28" column="8" />
       </file>
     </filemarks>
     <jumps>
@@ -504,46 +504,47 @@
       <jump line="48" column="18" filename="$USER_HOME$/dev/js/react/ReactStarter/gulpfile.js" />
       <jump line="30" column="0" filename="$USER_HOME$/dev/js/react/ReactStarter/src/app.jsx" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/js/react/ReactStarter/src/app.jsx" />
+      <jump line="51" column="0" filename="$USER_HOME$/dev/js/react/ReactStarter/src/app.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPGxpPnt0aGlzLnByb3BzLml0ZW0udGV4dH0gLSB7dGhpcy5wcm9wcy5pdGVtLmtleX0gLSB7dGhpcy5wcm9wcy5pdGVtLmRvbmV9PC9saT4K</text>
+      <register name="&quot;" type="4">
+        <text>clear-complete</text>
       </register>
       <register name="-" type="4">
-        <text>]}</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>main</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">dmFyIFJlYWN0ID0gcmVxdWlyZSgncmVhY3QnKTsK</text>
+      <register name="0" type="4">
+        <text>clear-complete</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPGxpPnt0aGlzLnByb3BzLml0ZW0udGV4dH0gLSB7dGhpcy5wcm9wcy5pdGVtLmtleX0gLSB7dGhpcy5wcm9wcy5pdGVtLmRvbmV9PC9saT4K</text>
+        <text encoding="base64">ICAgIHRoaXMuZmIucmVtb3ZlKCk7Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>&quot;</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW09e2l0ZW19Cg==</text>
+      <register name="3" type="4">
+        <text>&quot;</text>
       </register>
       <register name="4" type="4">
-        <text>]}</text>
+        <text>]</text>
       </register>
       <register name="5" type="4">
-        <text>key</text>
+        <text>)</text>
       </register>
-      <register name="6" type="4">
-        <text>[</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>this.props.items</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHJldHVybiAKICAgICAgICBbCiAgICAgICAgICAgIDxidXR0b24gY2xhc3NOYW1lPSJidG4gYnRuLWRlZmF1bHQiPlNhdmU8L2J1dHRvbj4KICAgICAgICAgICAgPGJ1dHRvbiBjbGFzc05hbWU9ImJ0biBidG4tZGVmYXVsdCI+VW5kbzwvYnV0dG9uPgogICAgICAgIF0K</text>
       </register>
-      <register name="8" type="4">
-        <text>text</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="9" type="4">
-        <text>.</text>
+        <text>(</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
