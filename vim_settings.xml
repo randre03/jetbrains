@@ -198,12 +198,11 @@
         <mark key="^" line="1" column="15" />
         <mark key="." line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/js/react/react-flux/src/app.jsx" timestamp="1447356859558">
-        <mark key="'" line="1" column="35" />
-        <mark key="[" line="12" column="5" />
-        <mark key="]" line="12" column="7" />
-        <mark key="^" line="12" column="7" />
-        <mark key="." line="12" column="7" />
+      <file name="$USER_HOME$/dev/js/react/react-flux/src/app.jsx" timestamp="1447365874852">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="32" column="20" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/dev/meteor/codefolio/lib/router.js" timestamp="1446850836722">
         <mark key="'" line="10" column="23" />
@@ -534,46 +533,47 @@
       <jump line="78" column="15" filename="$USER_HOME$/dev/js/react/react-flux/gulpfile.js" />
       <jump line="49" column="15" filename="$USER_HOME$/dev/js/react/react-flux/gulpfile.js" />
       <jump line="1" column="35" filename="$USER_HOME$/dev/js/react/react-flux/src/app.jsx" />
+      <jump line="16" column="0" filename="$USER_HOME$/dev/js/react/react-flux/src/app.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>^</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZDFgdmFyIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>^</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>dest</text>
       </register>
-      <register name="0" type="4">
-        <text>clear-complete</text>
+      <register name="0" type="2">
+        <text encoding="base64">dmFyIENoaWxkMSA9IFJlYWN0LmNyZWF0ZUNsYXNzKHsKICByZW5kZXI6IGZ1bmN0aW9uICgpIHsKICByZXR1cm4gKAogICAgICA8aDE+SSdtIGNoaWxkMTwvaDE+CiAgICApOwogIH0KfSk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>^</text>
+      <register name="1" type="2">
+        <text encoding="base64">ZDFgdmFyIAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">c3R5bGUuY3NzCg==</text>
+      <register name="2" type="4">
+        <text />
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">bWFpbi5qcwo=</text>
+      <register name="3" type="4">
+        <text>history = createHistory();</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZmIucmVtb3ZlKCk7Cg==</text>
+      <register name="4" type="4">
+        <text>!</text>
       </register>
       <register name="5" type="4">
-        <text>&quot;</text>
+        <text>Hello</text>
       </register>
       <register name="6" type="4">
-        <text>&quot;</text>
+        <text>:</text>
       </register>
       <register name="7" type="4">
-        <text>]</text>
+        <text>^</text>
       </register>
-      <register name="8" type="4">
-        <text>)</text>
+      <register name="8" type="2">
+        <text encoding="base64">c3R5bGUuY3NzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bWFpbi5qcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
