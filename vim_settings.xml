@@ -198,12 +198,12 @@
         <mark key="^" line="1" column="15" />
         <mark key="." line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/js/react/react-flux/src/app.jsx" timestamp="1447373148326">
+      <file name="$USER_HOME$/dev/js/react/react-flux/src/app.jsx" timestamp="1447547581148">
         <mark key="'" line="33" column="1" />
-        <mark key="[" line="34" column="43" />
-        <mark key="]" line="34" column="27" />
-        <mark key="^" line="34" column="27" />
-        <mark key="." line="34" column="27" />
+        <mark key="[" line="30" column="11" />
+        <mark key="]" line="30" column="10" />
+        <mark key="^" line="30" column="10" />
+        <mark key="." line="30" column="10" />
       </file>
       <file name="$USER_HOME$/dev/meteor/codefolio/lib/router.js" timestamp="1446850836722">
         <mark key="'" line="10" column="23" />
@@ -538,10 +538,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>history</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>history</text>
       </register>
       <register name="/" type="4">
         <text>dest</text>
@@ -550,31 +550,31 @@
         <text encoding="base64">dmFyIENoaWxkMSA9IFJlYWN0LmNyZWF0ZUNsYXNzKHsKICByZW5kZXI6IGZ1bmN0aW9uICgpIHsKICByZXR1cm4gKAogICAgICA8aDE+SSdtIGNoaWxkMTwvaDE+CiAgICApOwogIH0KfSk7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>/</text>
+        <text>history</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="3" type="4">
         <text>/</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="4">
+        <text>/</text>
+      </register>
+      <register name="5" type="4">
+        <text>/</text>
+      </register>
+      <register name="6" type="4">
+        <text>/</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">dmFyIExpbmsgPSBSZWFjdFJvdXRlci5MaW5rOwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICJicm93c2VyaWZ5IjogIl45LjAuMyIsCiAgICAiZ3VscCI6ICJeMy44LjExIiwKICAgICJndWxwLWNvbmNhdCI6ICJeMi41LjIiLAogICAgImd1bHAtcmVhY3QiOiAiXjMuMC4xIiwKICAgICJndWxwLXNhc3MiOiAiXjIuMC4xIiwKICAgICJndWxwLXNlcnZlci1saXZlcmVsb2FkIjogIl4xLjMuMCIsCiAgICAiZ3VscC11dGlsIjogIl4zLjAuNCIsCiAgICAiZ3VscC13YXRjaCI6ICJeNC4yLjQiLAogICAgImhpc3RvcnkiOiAiXjEuMTMuMCIsCiAgICAibm9kZS1ub3RpZmllciI6ICJeNC4yLjEiLAogICAgInJlYWN0IjogIl4wLjE0LjAiLAogICAgInJlYWN0LWRvbSI6ICJeMC4xNC4wIiwKICAgICJyZWFjdC1yb3V0ZXIiOiAiXjEuMC4wIiwKICAgICJyZWFjdGlmeSI6ICJeMS4xLjAiLAogICAgInZpbnlsLXNvdXJjZS1zdHJlYW0iOiAiXjEuMS4wIiwKICAgICJ3YXRjaGlmeSI6ICJeMi40LjAiCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">dmFyIGhpc3RvcnkgPSBjcmVhdGVIaXN0b3J5KCk7Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text>r</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZDFgdmFyIAo=</text>
-      </register>
-      <register name="9" type="4">
-        <text />
       </register>
       <register name=":" type="4">
         <text>w</text>
