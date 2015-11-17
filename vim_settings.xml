@@ -167,10 +167,11 @@
         <mark key="^" line="7" column="13" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/meteor/codefolio/client/templates/blog.html" timestamp="1447722873259">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/dev/meteor/codefolio/client/templates/blog.html" timestamp="1447724238134">
+        <mark key="[" line="18" column="3" />
+        <mark key="]" line="18" column="3" />
+        <mark key="." line="18" column="3" />
+        <mark key="^" line="18" column="3" />
       </file>
       <file name="$USER_HOME$/dev/meteor/codefolio/client/templates/admin/posts/post.js" timestamp="1446853963303">
         <mark key="[" line="42" column="0" />
