@@ -428,6 +428,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/js/react/eduonix-react/lifecycle/index.html" timestamp="1448675235210">
+        <mark key="[" line="39" column="69" />
+        <mark key="]" line="39" column="76" />
+        <mark key="." line="39" column="76" />
+        <mark key="^" line="39" column="76" />
+      </file>
       <file name="$USER_HOME$/dev/js/react/react-flux/package.json" timestamp="1447368887360">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -555,43 +561,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>Proprerty</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>Proprerty</text>
       </register>
       <register name="/" type="4">
         <text>dest</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZm9ybS1ncm91cCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsYWJlbCBodG1sRm9yPSJmaXJzdG5hbWUiPkZpcnN0IE5hbWU6PC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIGNsYXNzTmFtZT0iZm9ybS1jb250cm9sIiBwbGFjZWhvbGRlcj0iRmlyc3QgTmFtZSIgcmVmPSJmaXJzdG5hbWUiIC8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIG9uQ2xpY2s9e3RoaXMuY2hhbmdlUHJvcH0+Q2hhbmdlIFByb3ByZXJ0eTwvYnV0dG9uPgo=</text>
       </register>
       <register name="1" type="4">
-        <text>/</text>
+        <text>Proprerty</text>
       </register>
       <register name="2" type="4">
-        <text>I</text>
+        <text>Change Proprerty</text>
       </register>
       <register name="3" type="4">
-        <text>t</text>
+        <text>changeProp</text>
       </register>
-      <register name="4" type="4">
-        <text>t</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0aGlzLnJlZnMuZmlyc3ROYW1lLnZhbHVlID0gJyc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>firstName</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="4">
-        <text>firstName</text>
+        <text>l</text>
       </register>
       <register name="8" type="4">
-        <text>firstName</text>
+        <text>getInitialState</text>
       </register>
       <register name="9" type="4">
-        <text>firstName</text>
+        <text>DefaultProps</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
