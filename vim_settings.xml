@@ -428,11 +428,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/js/react/eduonix-react/lifecycle/index.html" timestamp="1448675235210">
-        <mark key="[" line="39" column="69" />
-        <mark key="]" line="39" column="76" />
-        <mark key="." line="39" column="76" />
-        <mark key="^" line="39" column="76" />
+      <file name="$USER_HOME$/dev/js/react/eduonix-react/lifecycle/index.html" timestamp="1448736640293">
+        <mark key="'" line="12" column="19" />
+        <mark key="[" line="19" column="35" />
+        <mark key="]" line="19" column="31" />
+        <mark key="." line="19" column="31" />
+        <mark key="^" line="19" column="31" />
       </file>
       <file name="$USER_HOME$/dev/js/react/react-flux/package.json" timestamp="1447368887360">
         <mark key="[" line="12" column="0" />
@@ -558,46 +559,47 @@
       <jump line="16" column="0" filename="$USER_HOME$/dev/js/react/react-flux/src/app.jsx" />
       <jump line="38" column="1" filename="$USER_HOME$/dev/js/react/react-flux/src/app.jsx" />
       <jump line="59" column="87" filename="$USER_HOME$/dev/js/react/eduonix-react/regform/index.html" />
+      <jump line="12" column="19" filename="$USER_HOME$/dev/js/react/eduonix-react/lifecycle/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Proprerty</text>
+        <text>DidUpdate</text>
       </register>
       <register name="-" type="4">
-        <text>Proprerty</text>
+        <text>DidUpdate</text>
       </register>
       <register name="/" type="4">
         <text>dest</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIG9uQ2xpY2s9e3RoaXMuY2hhbmdlUHJvcH0+Q2hhbmdlIFByb3ByZXJ0eTwvYnV0dG9uPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ0ludm9raW5nIGNvbXBvbmVudERpZFVwZGF0ZSBtZXRob2QnKTsK</text>
       </register>
       <register name="1" type="4">
-        <text>Proprerty</text>
+        <text>DidUpdate</text>
       </register>
       <register name="2" type="4">
-        <text>Change Proprerty</text>
+        <text>l</text>
       </register>
       <register name="3" type="4">
-        <text>changeProp</text>
+        <text>l</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>i</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>W</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="4">
-        <text>l</text>
+        <text>shouldComponentUpdate</text>
       </register>
-      <register name="8" type="4">
-        <text>getInitialState</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="4">
-        <text>DefaultProps</text>
+        <text>componentWillReceiveProps</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
