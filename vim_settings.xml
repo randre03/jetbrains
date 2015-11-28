@@ -371,11 +371,12 @@
         <mark key="." line="3" column="44" />
         <mark key="^" line="3" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/js/react/eduonix-react/regform/index.html" timestamp="1448664669959">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="14" column="12" />
-        <mark key="^" line="16" column="29" />
-        <mark key="." line="14" column="12" />
+      <file name="$USER_HOME$/dev/js/react/eduonix-react/regform/index.html" timestamp="1448669107249">
+        <mark key="'" line="59" column="87" />
+        <mark key="[" line="59" column="59" />
+        <mark key="]" line="59" column="72" />
+        <mark key="^" line="59" column="72" />
+        <mark key="." line="59" column="72" />
       </file>
       <file name="$USER_HOME$/dev/js/todos/scripts/helpers.js" timestamp="1447108219463">
         <mark key="'" line="52" column="3" />
@@ -550,46 +551,47 @@
       <jump line="1" column="35" filename="$USER_HOME$/dev/js/react/react-flux/src/app.jsx" />
       <jump line="16" column="0" filename="$USER_HOME$/dev/js/react/react-flux/src/app.jsx" />
       <jump line="38" column="1" filename="$USER_HOME$/dev/js/react/react-flux/src/app.jsx" />
+      <jump line="59" column="87" filename="$USER_HOME$/dev/js/react/eduonix-react/regform/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>dest</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICBkYXRhOiBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgIHRlbXBsYXRlRGF0YSA9IHsKICAgICAgICAgICAgICAgIHBvc3RzOiBQb3N0cy5maW5kKCkKICAgICAgICAgICAgfTsKICAgICAgICAgICAgcmV0dXJuIHRlbXBsYXRlRGF0YTsKICAgICAgICB9LA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZm9ybS1ncm91cCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsYWJlbCBodG1sRm9yPSJmaXJzdG5hbWUiPkZpcnN0IE5hbWU6PC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIGNsYXNzTmFtZT0iZm9ybS1jb250cm9sIiBwbGFjZWhvbGRlcj0iRmlyc3QgTmFtZSIgcmVmPSJmaXJzdG5hbWUiIC8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>i</text>
+        <text>/</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CSAgPCEtLSArKysrKyBGaXJzdCBQb3N0ICsrKysrIC0tPgo=</text>
+      <register name="2" type="4">
+        <text>I</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IDwhLS0gKysrKysgU2Vjb25kIFBvc3QgKysrKysgLS0+CgkgIDxkaXYgaWQ9IndoaXRlIj4KCSAgICAgIDxkaXYgY2xhc3M9ImNvbnRhaW5lciI+CgkJCSAgICAgIDxkaXYgY2xhc3M9InJvdyI+CgkJCQkgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1sZy04IGNvbC1sZy1vZmZzZXQtMiI+CgkJCQkJICAgICAgICAgIDxwPjxpbWcgc3JjPSJhc3NldHMvaW1nL3VzZXIucG5nIiB3aWR0aD0iNTBweCIgaGVpZ2h0PSI1MHB4Ij4gPGJhPlN0YW5sZXkgU3RpbnNvbjwvYmE+PC9wPgoJCQkJCSAgICAgICAgICA8cD48YmQ+SmFudWFyeSAzLCAyMDE0PC9iZD48L3A+CgkJCQkJICAgICAgICAgIDxoND5BbiBJbWFnZSBQb3N0PC9oND4KCQkJCQkgICAgICAgICAgPHA+PGltZyBjbGFzcz0iaW1nLXJlc3BvbnNpdmUiIHNyYz0iYXNzZXRzL2ltZy9ibG9nMDEuanBnIiBhbHQ9IiI+PC9wPgoJCQkJCSAgICAgICAgICA8cD5Mb3JlbSBJcHN1bSBpcyBzaW1wbHkgZHVtbXkgdGV4dCBvZiB0aGUgcHJpbnRpbmcgYW5kIHR5cGVzZXR0aW5nIGluZHVzdHJ5LiBMb3JlbSBJcHN1bSBoYXMgYmVlbiB0aGUgaW5kdXN0cnkncyBzdGFuZGFyZCBkdW1teSB0ZXh0IGV2ZXIgc2luY2UgdGhlIDE1MDBzLCB3aGVuIGFuIHVua25vd24gcHJpbnRlciB0b29rIGEgZ2FsbGV5IG9mIHR5cGUgYW5kIHNjcmFtYmxlZCBpdCB0byBtYWtlIGEgdHlwZSBzcGVjaW1lbiBib29rLjwvcD4KCQkJCQkgICAgICAgICAgPHA+PGEgaHJlZj0iYmxvZzAxLmh0bWwiPkNvbnRpbnVlIFJlYWRpbmcuLi48L2E+PC9wPgoJCQkJICAgICAgICA8L2Rpdj4KCgkJCSAgICAgIDwvZGl2PjwhLS0gL3JvdyAtLT4KCSAgICAgIDwvZGl2PiA8IS0tIC9jb250YWluZXIgLS0+CgkgIDwvZGl2PjwhLS0gL3doaXRlIC0tPgoJICAKCSAgPCEtLSArKysrKyBUaGlyZCBQb3N0ICsrKysrIC0tPgoJICA8ZGl2IGlkPSJncmV5Ij4KCSAgICAgIDxkaXYgY2xhc3M9ImNvbnRhaW5lciI+CgkJCSAgICAgIDxkaXYgY2xhc3M9InJvdyI+CgkJCQkgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1sZy04IGNvbC1sZy1vZmZzZXQtMiI+CgkJCQkJICAgICAgICAgIDxwPjxpbWcgc3JjPSJhc3NldHMvaW1nL3VzZXIucG5nIiB3aWR0aD0iNTBweCIgaGVpZ2h0PSI1MHB4Ij4gPGJhPlN0YW5sZXkgU3RpbnNvbjwvYmE+PC9wPgoJCQkJCSAgICAgICAgICA8cD48YmQ+SmFudWFyeSAwMSwgMjAxNDwvYmQ+PC9wPgoJCQkJCSAgICAgICAgICA8aDQ+QmVsaWV2ZSBJbiBZb3Vyc2VsZjwvaDQ+CgkJCQkJICAgICAgICAgIDxwIGNsYXNzPSJicSI+IkEgYmlyZCBzaXR0aW5nIG9uIGEgdHJlZSBpcyBuZXZlciBhZnJhaWQgb2YgdGhlIGJyYW5jaCBicmVha2luZywgYmVjYXVzZSBoZXIgdHJ1c3QgaXMgbm90IGluIHRoZSBicmFuY2gsIGJ1dCBpbiBoZXIgb3duIHdpbmdzLiI8L3A+CgkJCQkgICAgICAgIDwvZGl2PgoKCQkJICAgICAgPC9kaXY+PCEtLSAvcm93IC0tPgoJICAgICAgPC9kaXY+IDwhLS0gL2NvbnRhaW5lciAtLT4KCSAgPC9kaXY+PCEtLSAvZ3JleSAtLT4KPA==</text>
+        <text>t</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
-      <register name="5" type="4">
-        <text>history</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICB0aGlzLnJlZnMuZmlyc3ROYW1lLnZhbHVlID0gJyc7Cg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>firstName</text>
       </register>
       <register name="7" type="4">
-        <text>/</text>
+        <text>firstName</text>
       </register>
       <register name="8" type="4">
-        <text>/</text>
+        <text>firstName</text>
       </register>
       <register name="9" type="4">
-        <text>/</text>
+        <text>firstName</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
