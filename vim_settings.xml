@@ -2,19 +2,654 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="$USER_HOME$/dev/js/react/thumbnail-list/src/thumbnail-list.jsx" timestamp="1447200253574">
+        <mark key="[" line="6" column="40" />
+        <mark key="]" line="6" column="35" />
+        <mark key="^" line="6" column="35" />
+        <mark key="." line="6" column="35" />
+      </file>
+      <file name="$USER_HOME$/dev/js/todos/gulpfile.js" timestamp="1447103772654">
+        <mark key="'" line="114" column="2" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="2" />
+        <mark key="." line="8" column="2" />
+        <mark key="^" line="8" column="2" />
+      </file>
+      <file name="/fragment.js" timestamp="1446853081150">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/meteor/codefolio/client/templates/login.html" timestamp="1446831452975">
+        <mark key="[" line="7" column="84" />
+        <mark key="]" line="7" column="91" />
+        <mark key="." line="7" column="91" />
+        <mark key="^" line="7" column="91" />
+      </file>
+      <file name="$USER_HOME$/dev/js/react/thumbnail-list/src/thumbnail.jsx" timestamp="1447200333172">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="6" column="28" />
+        <mark key="^" line="8" column="13" />
+        <mark key="." line="6" column="28" />
+      </file>
+      <file name="/a.dummy" timestamp="1447295550047">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/js/todos/claire" timestamp="1447099139541">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/js/react/dropdown/src/list-item.jsx" timestamp="1447262456787">
+        <mark key="[" line="15" column="15" />
+        <mark key="]" line="15" column="46" />
+        <mark key="^" line="15" column="46" />
+        <mark key="." line="15" column="46" />
+      </file>
+      <file name="$USER_HOME$/dev/js/react/react-flux/index.html" timestamp="1447366162289">
+        <mark key="[" line="2" column="31" />
+        <mark key="]" line="2" column="36" />
+        <mark key="^" line="2" column="36" />
+        <mark key="." line="2" column="36" />
+      </file>
+      <file name="$USER_HOME$/dev/js/react/ReactStarter/.gitignore" timestamp="1447274259940">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/meteor/codefolio/client/templates/helpers.js" timestamp="1446837315462">
+        <mark key="'" line="16" column="28" />
+        <mark key="[" line="39" column="31" />
+        <mark key="]" line="39" column="31" />
+        <mark key="^" line="41" column="2" />
+        <mark key="." line="39" column="31" />
+      </file>
+      <file name="$USER_HOME$/dev/js/react/badge/main.js" timestamp="1447179292740">
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="17" column="5" />
+        <mark key="^" line="3" column="28" />
+        <mark key="." line="17" column="5" />
+      </file>
+      <file name="$USER_HOME$/dev/js/react/ReactStarter/package.json" timestamp="1447262925034">
+        <mark key="[" line="19" column="22" />
+        <mark key="]" line="20" column="25" />
+        <mark key="." line="20" column="25" />
+        <mark key="^" line="20" column="25" />
+      </file>
+      <file name="$USER_HOME$/dev/website/1. HTML/helloworld.html" timestamp="1446860238956">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/js/react/dropdown/src/button.jsx" timestamp="1447259047499">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="11" column="107" />
+        <mark key="]" line="11" column="106" />
+        <mark key="." line="11" column="106" />
+        <mark key="^" line="11" column="106" />
+      </file>
+      <file name="$USER_HOME$/dev/meteor/codefolio/lib/collections.js" timestamp="1446852618012">
+        <mark key="'" line="56" column="16" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="^" line="39" column="11" />
+        <mark key="." line="83" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/js/react/badge/.idea/.name" timestamp="1447179620124">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/dev/js/react/hello-world/index.html" timestamp="1447177832452">
+        <mark key="[" line="4" column="25" />
+        <mark key="]" line="4" column="54" />
+        <mark key="^" line="4" column="54" />
+        <mark key="." line="4" column="54" />
+      </file>
+      <file name="/Dummy.css" timestamp="1447192032511">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/js/react/thumbnail-list/src/app.jsx" timestamp="1447199483046">
+        <mark key="[" line="5" column="51" />
+        <mark key="]" line="5" column="51" />
+        <mark key="^" line="5" column="51" />
+        <mark key="." line="5" column="51" />
+      </file>
+      <file name="$USER_HOME$/dev/js/react/badge/package.json" timestamp="1447179537644">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="1" column="15" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/meteor/codefolio/.meteor/packages" timestamp="1446848360612">
+        <mark key="[" line="29" column="15" />
+        <mark key="]" line="30" column="13" />
+        <mark key="^" line="30" column="13" />
+        <mark key="." line="30" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/js/todos/index_todo.html" timestamp="1447104923054">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="25" column="6" />
+        <mark key="." line="8" column="33" />
+        <mark key="^" line="8" column="33" />
+      </file>
+      <file name="$USER_HOME$/dev/js/react/thumbnail-list/scripts/thumbnail-list.jsx" timestamp="1447196231338">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="29" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="10" column="10" />
+      </file>
+      <file name="$USER_HOME$/dev/js/react/react-flux/gulpfile.js" timestamp="1447356688179">
+        <mark key="'" line="49" column="15" />
+        <mark key="[" line="78" column="23" />
+        <mark key="]" line="78" column="27" />
+        <mark key="^" line="78" column="27" />
+        <mark key="." line="78" column="27" />
+      </file>
+      <file name="$USER_HOME$/dev/js/react/dropdown/index.html" timestamp="1447257475866">
+        <mark key="[" line="5" column="27" />
+        <mark key="]" line="8" column="27" />
+        <mark key="^" line="8" column="27" />
+        <mark key="." line="8" column="27" />
+      </file>
+      <file name="$USER_HOME$/dev/js/React-For-Beginners/claire" timestamp="1447166544528">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/js/react/badge/.idea/workspace.xml" timestamp="1447179723804">
+        <mark key="'" line="114" column="49" />
+        <mark key="[" line="120" column="45" />
+        <mark key="]" line="120" column="49" />
+        <mark key="." line="120" column="49" />
+        <mark key="^" line="120" column="49" />
+      </file>
+      <file name="$USER_HOME$/dev/js/react/thumbnail-list/src/badge.jsx" timestamp="1447200363982">
+        <mark key="'" line="5" column="28" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="7" column="13" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/meteor/codefolio/client/templates/blog.html" timestamp="1447724238134">
+        <mark key="[" line="18" column="3" />
+        <mark key="]" line="18" column="3" />
+        <mark key="." line="18" column="3" />
+        <mark key="^" line="18" column="3" />
+      </file>
+      <file name="$USER_HOME$/dev/meteor/codefolio/client/templates/admin/posts/post.js" timestamp="1446853963303">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="52" column="2" />
+        <mark key="." line="43" column="9" />
+        <mark key="^" line="43" column="9" />
+      </file>
+      <file name="$USER_HOME$/dev/meteor/codefolio/client/templates/admin/projects/project.js" timestamp="1446854017290">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="104" column="46" />
+        <mark key="]" line="104" column="46" />
+        <mark key="^" line="104" column="46" />
+        <mark key="." line="104" column="46" />
+      </file>
+      <file name="$USER_HOME$/dev/js/rer-todo/package.json" timestamp="1447097925198">
+        <mark key="[" line="1" column="43" />
+        <mark key="]" line="1" column="43" />
+        <mark key="." line="1" column="43" />
+        <mark key="^" line="1" column="42" />
+      </file>
+      <file name="$USER_HOME$/dev/meteor/codefolio/client/templates/navbar.html" timestamp="1446834199484">
+        <mark key="[" line="20" column="70" />
+        <mark key="]" line="20" column="71" />
+        <mark key="^" line="20" column="73" />
+        <mark key="." line="20" column="71" />
+      </file>
+      <file name="$USER_HOME$/dev/js/react/dropdown/package.json" timestamp="1447204827022">
+        <mark key="[" line="1" column="16" />
+        <mark key="]" line="1" column="15" />
+        <mark key="^" line="1" column="15" />
+        <mark key="." line="1" column="15" />
+      </file>
+      <file name="$USER_HOME$/dev/js/react/eduonix-react/firstcomponent/index.html" timestamp="1448585197030">
+        <mark key="[" line="20" column="5" />
+      </file>
+      <file name="$USER_HOME$/dev/js/react/react-flux/src/app.jsx" timestamp="1447547581148">
+        <mark key="'" line="33" column="1" />
+        <mark key="[" line="30" column="11" />
+        <mark key="]" line="30" column="10" />
+        <mark key="^" line="30" column="10" />
+        <mark key="." line="30" column="10" />
+      </file>
+      <file name="$USER_HOME$/dev/meteor/codefolio/lib/router.js" timestamp="1447722789498">
+        <mark key="'" line="10" column="23" />
+        <mark key="[" line="17" column="8" />
+        <mark key="]" line="17" column="8" />
+        <mark key="^" line="17" column="7" />
+        <mark key="." line="17" column="8" />
+      </file>
+      <file name="$USER_HOME$/dev/meteor/codefolio/server/bootstrap.js" timestamp="1446831676991">
+        <mark key="[" line="11" column="2" />
+        <mark key="]" line="11" column="2" />
+        <mark key="^" line="11" column="2" />
+        <mark key="." line="11" column="2" />
+      </file>
+      <file name="$USER_HOME$/dev/meteor/codefolio/client/common.js" timestamp="1446831742579">
+        <mark key="[" line="4" column="36" />
+        <mark key="]" line="4" column="44" />
+        <mark key="^" line="4" column="44" />
+        <mark key="." line="4" column="44" />
+      </file>
+      <file name="$USER_HOME$/dev/meteor/codefolio/client/templates/layout.html" timestamp="1446832782998">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="3" />
+        <mark key="." line="6" column="3" />
+        <mark key="^" line="6" column="3" />
+      </file>
+      <file name="$USER_HOME$/dev/js/react/thumbnail/scripts/main.jsx" timestamp="1447191558747">
+        <mark key="[" line="32" column="26" />
+        <mark key="]" line="33" column="94" />
+        <mark key="^" line="33" column="94" />
+        <mark key="." line="33" column="94" />
+      </file>
+      <file name="$USER_HOME$/dev/js/react/thumbnail-list/temp.jsx" timestamp="1447204381133">
+        <mark key="'" line="12" column="20" />
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="12" column="20" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/meteor/codefolio/client/templates/admin/projects/add_project.html" timestamp="1446851517476">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="17" column="25" />
+        <mark key="^" line="14" column="60" />
+        <mark key="." line="14" column="60" />
+      </file>
+      <file name="$USER_HOME$/dev/js/todos/index.html" timestamp="1447107179929">
+        <mark key="[" line="14" column="25" />
+        <mark key="]" line="14" column="24" />
+        <mark key="." line="14" column="24" />
+        <mark key="^" line="14" column="24" />
+      </file>
+      <file name="$USER_HOME$/dev/js/nodeauth/app.js" timestamp="1447024634847">
+        <mark key="[" line="69" column="32" />
+        <mark key="]" line="69" column="30" />
+        <mark key="." line="69" column="30" />
+        <mark key="^" line="69" column="30" />
+      </file>
+      <file name="$USER_HOME$/dev/js/react/badge/.idea/modules.xml" timestamp="1447179799678">
+        <mark key="[" line="4" column="61" />
+        <mark key="]" line="4" column="54" />
+        <mark key="." line="4" column="54" />
+        <mark key="^" line="4" column="54" />
+      </file>
+      <file name="$USER_HOME$/dev/js/react/ReactStarter/gulpfile.js" timestamp="1447274355946">
+        <mark key="'" line="48" column="18" />
+        <mark key="[" line="49" column="23" />
+        <mark key="]" line="78" column="27" />
+        <mark key="^" line="78" column="27" />
+        <mark key="." line="78" column="27" />
+      </file>
+      <file name="$USER_HOME$/dev/js/nodeauth/views/index.jade" timestamp="1447025558434">
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="4" column="32" />
+        <mark key="." line="4" column="32" />
+        <mark key="^" line="4" column="32" />
+      </file>
+      <file name="$USER_HOME$/dev/js/rer-todo/gulpfile.js" timestamp="1447097855600">
+        <mark key="[" line="74" column="50" />
+        <mark key="]" line="74" column="64" />
+        <mark key="^" line="74" column="64" />
+        <mark key="." line="74" column="64" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1447722433258">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/meteor/codefolio/client/templates/admin/projects/list_projects.html" timestamp="1446853888326">
+        <mark key="[" line="17" column="39" />
+        <mark key="]" line="17" column="37" />
+        <mark key="^" line="17" column="37" />
+        <mark key="." line="17" column="37" />
+      </file>
+      <file name="$USER_HOME$/dev/js/todo list/gulpfile.js" timestamp="1447098267798">
+        <mark key="[" line="74" column="50" />
+        <mark key="]" line="74" column="64" />
+        <mark key="^" line="74" column="64" />
+        <mark key="." line="74" column="64" />
+      </file>
+      <file name="$USER_HOME$/dev/js/react/thumbnail-list/scripts/thumbnail.jsx" timestamp="1447196223917">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/js/react/React-For-Beginners-Starter-Files/15 - Persisting State Data with Firebase/scripts/components/App.js" timestamp="1446761277947">
+        <mark key="[" line="104" column="174" />
+        <mark key="]" line="104" column="189" />
+        <mark key="^" line="104" column="189" />
+        <mark key="." line="104" column="189" />
+      </file>
+      <file name="$USER_HOME$/dev/js/todos/css/index_todo.html" timestamp="1447101545990">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="12" column="69" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/js/react/ReactStarter/src/header.jsx" timestamp="1447267859513">
+        <mark key="[" line="35" column="55" />
+        <mark key="]" line="36" column="87" />
+        <mark key="." line="36" column="87" />
+        <mark key="^" line="36" column="87" />
+      </file>
+      <file name="$USER_HOME$/dev/website/1. HTML/index.html" timestamp="1446862087322">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="3" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/js/react/ReactStarter/src/list.jsx" timestamp="1447294037121">
+        <mark key="[" line="20" column="69" />
+        <mark key="]" line="20" column="7" />
+        <mark key="." line="20" column="7" />
+        <mark key="^" line="20" column="7" />
+      </file>
+      <file name="$USER_HOME$/dev/js/nodeauth/package.json" timestamp="1446942451789">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="23" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/meteor/codefolio/client/templates/admin/posts/list_posts.html" timestamp="1446837367258">
+        <mark key="[" line="16" column="33" />
+        <mark key="]" line="16" column="40" />
+        <mark key="^" line="16" column="40" />
+        <mark key="." line="16" column="40" />
+      </file>
+      <file name="$USER_HOME$/dev/js/react/badge/scripts/main.jsx" timestamp="1447183507909">
+        <mark key="[" line="25" column="48" />
+        <mark key="]" line="25" column="46" />
+        <mark key="^" line="25" column="46" />
+        <mark key="." line="25" column="46" />
+      </file>
+      <file name="$USER_HOME$/dev/js/todo list/package.json" timestamp="1447098174605">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="3" column="44" />
+        <mark key="." line="3" column="44" />
+        <mark key="^" line="3" column="44" />
+      </file>
+      <file name="$USER_HOME$/dev/js/react/eduonix-react/regform/index.html" timestamp="1448669107249">
+        <mark key="'" line="59" column="87" />
+        <mark key="[" line="59" column="59" />
+        <mark key="]" line="59" column="72" />
+        <mark key="^" line="59" column="72" />
+        <mark key="." line="59" column="72" />
+      </file>
+      <file name="$USER_HOME$/dev/js/todos/scripts/helpers.js" timestamp="1447108219463">
+        <mark key="'" line="52" column="3" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="53" column="1" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/js/react/thumbnail-list/index.html" timestamp="1447197564319">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="18" column="28" />
+        <mark key="]" line="18" column="20" />
+        <mark key="." line="18" column="20" />
+        <mark key="^" line="18" column="20" />
+      </file>
+      <file name="$USER_HOME$/dev/meteor/codefolio/.gitignore" timestamp="1446829006335">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="6" />
+        <mark key="^" line="2" column="6" />
+        <mark key="." line="2" column="6" />
+      </file>
+      <file name="$USER_HOME$/dev/js/react/thumbnail-list/gulpfile.js" timestamp="1447197622581">
+        <mark key="[" line="26" column="10" />
+        <mark key="]" line="21" column="10" />
+        <mark key="^" line="21" column="10" />
+        <mark key="." line="21" column="10" />
+      </file>
+      <file name="$USER_HOME$/dev/js/react/React-For-Beginners-Starter-Files/15 - Persisting State Data with Firebase/scripts/components/Inventory.js" timestamp="1446774692765">
+        <mark key="'" line="26" column="23" />
+        <mark key="[" line="100" column="52" />
+        <mark key="]" line="100" column="53" />
+        <mark key="^" line="100" column="54" />
+        <mark key="." line="100" column="53" />
+      </file>
+      <file name="$USER_HOME$/dev/meteor/codefolio/client/templates/head.html" timestamp="1446832937028">
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="3" column="117" />
+        <mark key="^" line="3" column="117" />
+        <mark key="." line="3" column="117" />
+      </file>
+      <file name="$USER_HOME$/dev/js/react/thumbnail-list/scripts/badge.jsx" timestamp="1447196200971">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="28" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/js/react/react-flux/.gitignore" timestamp="1447356720751">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/js/react/react-flux/package.json" timestamp="1447368887360">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/meteor/codefolio/client/stylesheets/main.css" timestamp="1446851612868">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="241" column="1" />
+        <mark key="]" line="243" column="15" />
+        <mark key="^" line="243" column="15" />
+        <mark key="." line="243" column="15" />
+      </file>
+      <file name="$USER_HOME$/dev/js/react/React-For-Beginners-Starter-Files/15 - Persisting State Data with Firebase/build/rules.js" timestamp="1446775010386">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="11" column="24" />
+        <mark key="^" line="11" column="24" />
+        <mark key="." line="11" column="24" />
+      </file>
+      <file name="$USER_HOME$/dev/meteor/codefolio/client/templates/footer.html" timestamp="1446832518659">
+        <mark key="[" line="19" column="48" />
+        <mark key="]" line="20" column="51" />
+        <mark key="^" line="20" column="51" />
+        <mark key="." line="20" column="51" />
+      </file>
+      <file name="$USER_HOME$/dev/js/react/thumbnail/index.html" timestamp="1447190122833">
+        <mark key="[" line="10" column="18" />
+        <mark key="]" line="10" column="18" />
+        <mark key="." line="10" column="18" />
+        <mark key="^" line="10" column="17" />
+      </file>
+      <file name="$USER_HOME$/dev/js/react/ReactStarter/src/list-item.jsx" timestamp="1447293745967">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
+        <mark key="^" line="75" column="22" />
+      </file>
+      <file name="$USER_HOME$/dev/js/react/start/src/components/Header/Header.js" timestamp="1447033116224">
+        <mark key="[" line="21" column="52" />
+        <mark key="]" line="21" column="54" />
+        <mark key="^" line="21" column="54" />
+        <mark key="." line="21" column="54" />
+      </file>
+      <file name="$USER_HOME$/dev/js/react/ReactStarter/index.html" timestamp="1447294746971">
+        <mark key="[" line="14" column="19" />
+        <mark key="]" line="15" column="24" />
+        <mark key="^" line="15" column="24" />
+        <mark key="." line="15" column="24" />
+      </file>
+      <file name="$USER_HOME$/dev/js/react/dropdown/src/app.jsx" timestamp="1447205301541">
+        <mark key="[" line="17" column="34" />
+        <mark key="]" line="17" column="41" />
+        <mark key="." line="17" column="41" />
+        <mark key="^" line="17" column="41" />
+      </file>
+      <file name="$USER_HOME$/dev/js/react/badge/index.html" timestamp="1447183369485">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="8" column="12" />
+        <mark key="." line="8" column="12" />
+        <mark key="^" line="8" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/js/react/dropdown/src/dropdown.jsx" timestamp="1447262369243">
+        <mark key="[" line="31" column="32" />
+        <mark key="]" line="31" column="31" />
+        <mark key="." line="31" column="31" />
+        <mark key="^" line="31" column="31" />
+      </file>
+      <file name="$USER_HOME$/dev/js/react/ReactStarter/src/app.jsx" timestamp="1447294712664">
+        <mark key="'" line="79" column="0" />
+        <mark key="[" line="40" column="38" />
+        <mark key="]" line="40" column="51" />
+        <mark key="." line="28" column="8" />
+        <mark key="^" line="28" column="8" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="19100" column="7" filename="$USER_HOME$/dev/js/react/React-For-Beginners-Starter-Files/01 - Introduction : Start Here/build/main.js" />
+      <jump line="24076" column="1262639" filename="$USER_HOME$/dev/js/react/React-For-Beginners-Starter-Files/01 - Introduction : Start Here/build/main.js" />
+      <jump line="6" column="13" filename="$USER_HOME$/dev/js/react/React-For-Beginners-Starter-Files/12 - Displaying State with JSX/scripts/main.js" />
+      <jump line="31" column="40" filename="$USER_HOME$/dev/js/react/React-For-Beginners-Starter-Files/12 - Displaying State with JSX/scripts/main.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/js/react/React-For-Beginners-Starter-Files/01 - Introduction : Start Here/scripts/main.js" />
+      <jump line="196" column="0" filename="$USER_HOME$/dev/js/react/React-For-Beginners-Starter-Files/12 - Displaying State with JSX/scripts/main.js" />
+      <jump line="26" column="23" filename="$USER_HOME$/dev/js/react/React-For-Beginners-Starter-Files/15 - Persisting State Data with Firebase/scripts/components/Inventory.js" />
+      <jump line="10" column="23" filename="$USER_HOME$/dev/meteor/codefolio/lib/router.js" />
+      <jump line="16" column="28" filename="$USER_HOME$/dev/meteor/codefolio/client/templates/helpers.js" />
+      <jump line="20" column="0" filename="$USER_HOME$/dev/meteor/codefolio/client/templates/admin/posts/post.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/dev/meteor/codefolio/lib/collections.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/meteor/codefolio/client/stylesheets/main.css" />
+      <jump line="56" column="16" filename="$USER_HOME$/dev/meteor/codefolio/lib/collections.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/dev/meteor/codefolio/client/templates/admin/projects/project.js" />
+      <jump line="48" column="0" filename="$USER_HOME$/dev/meteor/codefolio/client/templates/admin/projects/project.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/website/1. HTML/index.html" />
+      <jump line="67" column="3" filename="$USER_HOME$/dev/js/todos/scripts/helpers.js" />
+      <jump line="114" column="2" filename="$USER_HOME$/dev/js/todos/gulpfile.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/js/todos/index_todo.html" />
+      <jump line="50" column="54" filename="$USER_HOME$/dev/js/todos/scripts/main.js" />
+      <jump line="34" column="10" filename="$USER_HOME$/dev/js/react/badge/.idea/workspace.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/js/react/badge/.idea/workspace.xml" />
+      <jump line="4" column="23" filename="$USER_HOME$/dev/js/react/badge/.idea/workspace.xml" />
+      <jump line="18" column="30" filename="$USER_HOME$/dev/js/react/badge/.idea/workspace.xml" />
+      <jump line="114" column="49" filename="$USER_HOME$/dev/js/react/badge/.idea/workspace.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/js/react/badge/gulpfile.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/dev/js/react/thumbnail-list/index.html" />
+      <jump line="5" column="28" filename="$USER_HOME$/dev/js/react/thumbnail-list/src/badge.jsx" />
+      <jump line="8" column="13" filename="$USER_HOME$/dev/js/react/thumbnail-list/src/thumbnail.jsx" />
+      <jump line="25" column="0" filename="$USER_HOME$/dev/js/react/thumbnail-list/src/thumbnail.jsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/js/react/thumbnail-list/main.js" />
+      <jump line="12" column="20" filename="$USER_HOME$/dev/js/react/thumbnail-list/temp.jsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/js/react/dropdown/src/button.jsx" />
+      <jump line="13" column="36" filename="$USER_HOME$/dev/js/react/ReactStarter/src/app.jsx" />
+      <jump line="3" column="34" filename="$USER_HOME$/dev/js/react/ReactStarter/src/app.jsx" />
+      <jump line="78" column="25" filename="$USER_HOME$/dev/js/react/ReactStarter/gulpfile.js" />
+      <jump line="49" column="4" filename="$USER_HOME$/dev/js/react/ReactStarter/gulpfile.js" />
+      <jump line="63" column="14" filename="$USER_HOME$/dev/js/react/ReactStarter/gulpfile.js" />
+      <jump line="48" column="18" filename="$USER_HOME$/dev/js/react/ReactStarter/gulpfile.js" />
+      <jump line="30" column="0" filename="$USER_HOME$/dev/js/react/ReactStarter/src/app.jsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/js/react/ReactStarter/src/app.jsx" />
+      <jump line="51" column="0" filename="$USER_HOME$/dev/js/react/ReactStarter/src/app.jsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/js/react/react-flux/gulpfile.js" />
+      <jump line="78" column="15" filename="$USER_HOME$/dev/js/react/react-flux/gulpfile.js" />
+      <jump line="49" column="15" filename="$USER_HOME$/dev/js/react/react-flux/gulpfile.js" />
+      <jump line="1" column="35" filename="$USER_HOME$/dev/js/react/react-flux/src/app.jsx" />
+      <jump line="16" column="0" filename="$USER_HOME$/dev/js/react/react-flux/src/app.jsx" />
+      <jump line="38" column="1" filename="$USER_HOME$/dev/js/react/react-flux/src/app.jsx" />
+      <jump line="59" column="87" filename="$USER_HOME$/dev/js/react/eduonix-react/regform/index.html" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>/</text>
+      </register>
+      <register name="-" type="4">
+        <text>/</text>
+      </register>
+      <register name="/" type="4">
+        <text>dest</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZm9ybS1ncm91cCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsYWJlbCBodG1sRm9yPSJmaXJzdG5hbWUiPkZpcnN0IE5hbWU6PC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIGNsYXNzTmFtZT0iZm9ybS1jb250cm9sIiBwbGFjZWhvbGRlcj0iRmlyc3QgTmFtZSIgcmVmPSJmaXJzdG5hbWUiIC8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
+      </register>
+      <register name="1" type="4">
+        <text>/</text>
+      </register>
+      <register name="2" type="4">
+        <text>I</text>
+      </register>
+      <register name="3" type="4">
+        <text>t</text>
+      </register>
+      <register name="4" type="4">
+        <text>t</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICB0aGlzLnJlZnMuZmlyc3ROYW1lLnZhbHVlID0gJyc7Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text>firstName</text>
+      </register>
+      <register name="7" type="4">
+        <text>firstName</text>
+      </register>
+      <register name="8" type="4">
+        <text>firstName</text>
+      </register>
+      <register name="9" type="4">
+        <text>firstName</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>dest</last-search>
+      <last-offset />
+      <last-pattern>dest</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
-      <history-cmd />
+      <history-search>
+        <entry>index</entry>
+        <entry>hello-world</entry>
+        <entry>hello</entry>
+        <entry>main</entry>
+        <entry>dest</entry>
+      </history-search>
+      <history-cmd>
+        <entry>27</entry>
+        <entry>69</entry>
+        <entry>W</entry>
+        <entry>4</entry>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
