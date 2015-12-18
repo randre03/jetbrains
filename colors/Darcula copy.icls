@@ -4,6 +4,11 @@
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
   <option name="EDITOR_FONT_NAME" value="CamingoCode" />
   <attributes>
+    <option name="DEFAULT_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="5c7ab8" />
+      </value>
+    </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="bd693c" />
